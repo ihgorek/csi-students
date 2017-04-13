@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  13 APR 2017 20:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  13 APR 2017 22:54
 entering extended mode
 **./lab7.tex
 (lab7.tex
@@ -981,280 +981,368 @@ Package caption Info: End \AtBeginDocument code.
 <1.jpg, id=1, 365.86688pt x 128.48pt>
 File: 1.jpg Graphic file (type jpg)
  <use 1.jpg>
-Package pdftex.def Info: 1.jpg used on input line 28.
-(pdftex.def)             Requested size: 448.12788pt x 157.37662pt.
+Package pdftex.def Info: 1.jpg used on input line 24.
+(pdftex.def)             Requested size: 497.92325pt x 174.86378pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
 
 <1/1_y_a2_k1.jpg, id=2, 1907.125pt x 611.28375pt>
 File: 1/1_y_a2_k1.jpg Graphic file (type jpg)
  <use 1/1_y_a2_k1.jpg>
-Package pdftex.def Info: 1/1_y_a2_k1.jpg used on input line 36.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
+Package pdftex.def Info: 1/1_y_a2_k1.jpg used on input line 35.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+
+<1/1_e_a2_k1.jpg, id=3, 1907.125pt x 611.28375pt>
+File: 1/1_e_a2_k1.jpg Graphic file (type jpg)
+ <use 1/1_e_a2_k1.jpg>
+Package pdftex.def Info: 1/1_e_a2_k1.jpg used on input line 43.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./1.jpg> <./1/1_y_a2_k1.j
-pg>] <1/1_e_a2_k1.jpg, id=15, 1907.125pt x 611.28375pt>
-File: 1/1_e_a2_k1.jpg Graphic file (type jpg)
+pg> <./1/1_e_a2_k1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
 
-<use 1/1_e_a2_k1.jpg>
-Package pdftex.def Info: 1/1_e_a2_k1.jpg used on input line 44.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- <1/1_y_a2_k5.jpg, id=16, 1907.125pt x 611.28375pt>
+ []
+
+<1/1_y_a2_k5.jpg, id=16, 1907.125pt x 611.28375pt>
 File: 1/1_y_a2_k5.jpg Graphic file (type jpg)
+ <use 1/1_y_a2_k5.jpg>
+Package pdftex.def Info: 1/1_y_a2_k5.jpg used on input line 57.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 1/1_y_a2_k5.jpg>
-Package pdftex.def Info: 1/1_y_a2_k5.jpg used on input line 56.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- <1/1_e_a2_k5.jpg, id=17, 1907.125pt x 611.28375pt>
+<1/1_e_a2_k5.jpg, id=17, 1907.125pt x 611.28375pt>
 File: 1/1_e_a2_k5.jpg Graphic file (type jpg)
+ <use 1/1_e_a2_k5.jpg>
+Package pdftex.def Info: 1/1_e_a2_k5.jpg used on input line 63.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 1/1_e_a2_k5.jpg>
-Package pdftex.def Info: 1/1_e_a2_k5.jpg used on input line 61.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [2 <./1/1_e_a2_k1.jpg> <./1/1_y_a2_k5.jpg> <./1/1_e_a2_k5.jpg>] <1/1_y_a2_k10.
-jpg, id=23, 1907.125pt x 611.28375pt>
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
+
+ []
+
+<1/1_y_a2_k10.jpg, id=18, 1907.125pt x 611.28375pt>
 File: 1/1_y_a2_k10.jpg Graphic file (type jpg)
+ <use 1/1_y_a2_k10.jpg>
+Package pdftex.def Info: 1/1_y_a2_k10.jpg used on input line 74.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 1/1_y_a2_k10.jpg>
-Package pdftex.def Info: 1/1_y_a2_k10.jpg used on input line 75.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- <1/1_e_a2_k10.jpg, id=24, 1907.125pt x 611.28375pt>
+[2 <./1/1_y_a2_k5.jpg> <./1/1_e_a2_k5.jpg> <./1/1_y_a2_k10.jpg>]
+<1/1_e_a2_k10.jpg, id=22, 1907.125pt x 611.28375pt>
 File: 1/1_e_a2_k10.jpg Graphic file (type jpg)
+ <use 1/1_e_a2_k10.jpg>
+Package pdftex.def Info: 1/1_e_a2_k10.jpg used on input line 82.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 1/1_e_a2_k10.jpg>
-Package pdftex.def Info: 1/1_e_a2_k10.jpg used on input line 80.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [3 <./1/1_y_a2_k10.jpg> <./1/1_e_a2_k10.jpg>]
-<1/7.jpg, id=28, 1907.125pt x 611.28375pt>
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+<1/7.jpg, id=23, 1907.125pt x 611.28375pt>
 File: 1/7.jpg Graphic file (type jpg)
  <use 1/7.jpg>
-Package pdftex.def Info: 1/7.jpg used on input line 112.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
+Package pdftex.def Info: 1/7.jpg used on input line 110.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<1/8.jpg, id=29, 1907.125pt x 611.28375pt>
+<1/8.jpg, id=24, 1907.125pt x 611.28375pt>
 File: 1/8.jpg Graphic file (type jpg)
  <use 1/8.jpg>
-Package pdftex.def Info: 1/8.jpg used on input line 117.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
-
-<1/9.jpg, id=30, 1907.125pt x 611.28375pt>
+Package pdftex.def Info: 1/8.jpg used on input line 116.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+ [3 <./1/1_e_a2_k10.jpg> <./1/7.jpg> <./1/8.jpg>] <1/9.jpg, id=30, 1907.125pt x
+ 611.28375pt>
 File: 1/9.jpg Graphic file (type jpg)
- <use 1/9.jpg>
-Package pdftex.def Info: 1/9.jpg used on input line 125.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [4 <./1/7.jpg> <./1/8.jpg> <./1/9.jpg>] <1/10.jpg, id=34, 1907.125pt x 611.283
-75pt>
+
+<use 1/9.jpg>
+Package pdftex.def Info: 1/9.jpg used on input line 126.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+ <1/10.jpg, id=31, 1907.125pt x 611.28375pt>
 File: 1/10.jpg Graphic file (type jpg)
  <use 1/10.jpg>
-Package pdftex.def Info: 1/10.jpg used on input line 133.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
+Package pdftex.def Info: 1/10.jpg used on input line 132.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<1/11.jpg, id=35, 1907.125pt x 611.28375pt>
+<1/11.jpg, id=32, 1907.125pt x 611.28375pt>
 File: 1/11.jpg Graphic file (type jpg)
  <use 1/11.jpg>
-Package pdftex.def Info: 1/11.jpg used on input line 141.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
-
-<1/12.jpg, id=36, 1907.125pt x 611.28375pt>
+Package pdftex.def Info: 1/11.jpg used on input line 140.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+ [4 <./1/9.jpg> <./1/10.jpg> <./1/11.jpg>] <1/12.jpg, id=36, 1907.125pt x 611.2
+8375pt>
 File: 1/12.jpg Graphic file (type jpg)
- <use 1/12.jpg>
-Package pdftex.def Info: 1/12.jpg used on input line 146.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [5 <./1/10.jpg> <./1/11.jpg> <./1/12.jpg>] <2.jpg, id=42, 373.395pt x 128.48pt
->
+
+<use 1/12.jpg>
+Package pdftex.def Info: 1/12.jpg used on input line 148.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+[5 <./1/12.jpg>]
+Overfull \hbox (12.71893pt too wide) in paragraph at lines 162--163
+ \T2A/cmr/bx/n/10.95 Ис-сле-до-ва-ние си-сте-мы с аста-тиз-мом пер-во-го по-ряд
+-ка.[] \T2A/cmr/m/n/10.95 Ис-сле-ду-е-мая си-сте-ма: $\OML/cmm/m/it/12 W\OT1/cm
+r/m/n/12 (\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 ) = []$ 
+ []
+
+<2.jpg, id=42, 373.395pt x 128.48pt>
 File: 2.jpg Graphic file (type jpg)
  <use 2.jpg>
-Package pdftex.def Info: 2.jpg used on input line 162.
-(pdftex.def)             Requested size: 448.12788pt x 154.2007pt.
+Package pdftex.def Info: 2.jpg used on input line 166.
+(pdftex.def)             Requested size: 497.92325pt x 171.33694pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
 
 <2/2_13.jpg, id=43, 1907.125pt x 611.28375pt>
 File: 2/2_13.jpg Graphic file (type jpg)
  <use 2/2_13.jpg>
-Package pdftex.def Info: 2/2_13.jpg used on input line 173.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
+Package pdftex.def Info: 2/2_13.jpg used on input line 177.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
 <2/14.jpg, id=44, 1907.125pt x 611.28375pt>
 File: 2/14.jpg Graphic file (type jpg)
  <use 2/14.jpg>
-Package pdftex.def Info: 2/14.jpg used on input line 178.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [6 <./2.jpg> <./2/2_13.jpg> <./2/14.jpg>] <2/15.jpg, id=48, 1907.125pt x 611.2
-8375pt>
+Package pdftex.def Info: 2/14.jpg used on input line 182.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+ [6 <./2.jpg> <./2/2_13.jpg> <./2/14.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+<2/15.jpg, id=48, 1907.125pt x 611.28375pt>
 File: 2/15.jpg Graphic file (type jpg)
+ <use 2/15.jpg>
+Package pdftex.def Info: 2/15.jpg used on input line 194.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 2/15.jpg>
-Package pdftex.def Info: 2/15.jpg used on input line 192.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- <2/16_e_k5_a2.jpg, id=49, 1907.125pt x 611.28375pt>
+<2/16_e_k5_a2.jpg, id=49, 1907.125pt x 611.28375pt>
 File: 2/16_e_k5_a2.jpg Graphic file (type jpg)
+ <use 2/16_e_k5_a2.jpg>
+Package pdftex.def Info: 2/16_e_k5_a2.jpg used on input line 199.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 2/16_e_k5_a2.jpg>
-Package pdftex.def Info: 2/16_e_k5_a2.jpg used on input line 197.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- <2/17_y_k10_a2.jpg, id=50, 1907.125pt x 611.28375pt>
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+<2/17_y_k10_a2.jpg, id=50, 1907.125pt x 611.28375pt>
 File: 2/17_y_k10_a2.jpg Graphic file (type jpg)
+ <use 2/17_y_k10_a2.jpg>
+Package pdftex.def Info: 2/17_y_k10_a2.jpg used on input line 209.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 2/17_y_k10_a2.jpg>
-Package pdftex.def Info: 2/17_y_k10_a2.jpg used on input line 207.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [7 <./2/15.jpg> <./2/16_e_k5_a2.jpg> <./2/17_y_k10_a2.jpg>] <2/18_e_k10_a2.jpg
-, id=55, 1907.125pt x 611.28375pt>
+[7 <./2/15.jpg> <./2/16_e_k5_a2.jpg> <./2/17_y_k10_a2.jpg>]
+<2/18_e_k10_a2.jpg, id=55, 1907.125pt x 611.28375pt>
 File: 2/18_e_k10_a2.jpg Graphic file (type jpg)
+ <use 2/18_e_k10_a2.jpg>
+Package pdftex.def Info: 2/18_e_k10_a2.jpg used on input line 217.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 2/18_e_k10_a2.jpg>
-Package pdftex.def Info: 2/18_e_k10_a2.jpg used on input line 215.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- <2/19_y_k1_2t.jpg, id=56, 1907.125pt x 611.28375pt>
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+<2/19_y_k1_2t.jpg, id=56, 1907.125pt x 611.28375pt>
 File: 2/19_y_k1_2t.jpg Graphic file (type jpg)
+ <use 2/19_y_k1_2t.jpg>
+Package pdftex.def Info: 2/19_y_k1_2t.jpg used on input line 235.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 2/19_y_k1_2t.jpg>
-Package pdftex.def Info: 2/19_y_k1_2t.jpg used on input line 233.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- <2/20_e_k1_2t.jpg, id=57, 1907.125pt x 611.28375pt>
+<2/20_e_k1_2t.jpg, id=57, 1907.125pt x 611.28375pt>
 File: 2/20_e_k1_2t.jpg Graphic file (type jpg)
+ <use 2/20_e_k1_2t.jpg>
+Package pdftex.def Info: 2/20_e_k1_2t.jpg used on input line 241.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 2/20_e_k1_2t.jpg>
-Package pdftex.def Info: 2/20_e_k1_2t.jpg used on input line 238.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [8 <./2/18_e_k10_a2.jpg> <./2/19_y_k1_2t.jpg> <./2/20_e_k1_2t.jpg>] <2/21_y_k5
-_2t.jpg, id=61, 1907.125pt x 611.28375pt>
+[8 <./2/18_e_k10_a2.jpg> <./2/19_y_k1_2t.jpg> <./2/20_e_k1_2t.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+<2/21_y_k5_2t.jpg, id=62, 1907.125pt x 611.28375pt>
 File: 2/21_y_k5_2t.jpg Graphic file (type jpg)
+ <use 2/21_y_k5_2t.jpg>
+Package pdftex.def Info: 2/21_y_k5_2t.jpg used on input line 253.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 2/21_y_k5_2t.jpg>
-Package pdftex.def Info: 2/21_y_k5_2t.jpg used on input line 252.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- <2/22_e_k5_2t.jpg, id=62, 1907.125pt x 611.28375pt>
+<2/22_e_k5_2t.jpg, id=63, 1907.125pt x 611.28375pt>
 File: 2/22_e_k5_2t.jpg Graphic file (type jpg)
+ <use 2/22_e_k5_2t.jpg>
+Package pdftex.def Info: 2/22_e_k5_2t.jpg used on input line 259.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 2/22_e_k5_2t.jpg>
-Package pdftex.def Info: 2/22_e_k5_2t.jpg used on input line 257.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- <2/23_y_k10_2t.jpg, id=63, 1907.125pt x 611.28375pt>
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+<2/23_y_k10_2t.jpg, id=64, 1907.125pt x 611.28375pt>
 File: 2/23_y_k10_2t.jpg Graphic file (type jpg)
-
-<use 2/23_y_k10_2t.jpg>
+ <use 2/23_y_k10_2t.jpg>
 Package pdftex.def Info: 2/23_y_k10_2t.jpg used on input line 269.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [9 <./2/21_y_k5_2t.jpg> <./2/22_e_k5_2t.jpg> <./2/23_y_k10_2t.jpg>] <2/24_e_k1
-0_2t.jpg, id=67, 1907.125pt x 611.28375pt>
-File: 2/24_e_k10_2t.jpg Graphic file (type jpg)
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<use 2/24_e_k10_2t.jpg>
+[9 <./2/21_y_k5_2t.jpg> <./2/22_e_k5_2t.jpg> <./2/23_y_k10_2t.jpg>]
+<2/24_e_k10_2t.jpg, id=68, 1907.125pt x 611.28375pt>
+File: 2/24_e_k10_2t.jpg Graphic file (type jpg)
+ <use 2/24_e_k10_2t.jpg>
 Package pdftex.def Info: 2/24_e_k10_2t.jpg used on input line 277.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- <2/25_y_k1_0,5t2.jpg, id=68, 1907.125pt x 611.28375pt>
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+<2/25_y_k1_0,5t2.jpg, id=69, 1907.125pt x 611.28375pt>
 File: 2/25_y_k1_0,5t2.jpg Graphic file (type jpg)
 
 <use 2/25_y_k1_0,5t2.jpg>
-Package pdftex.def Info: 2/25_y_k1_0,5t2.jpg used on input line 310.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
-
-<2/26_e_k1_0,5t2.jpg, id=69, 1907.125pt x 611.28375pt>
+Package pdftex.def Info: 2/25_y_k1_0,5t2.jpg used on input line 308.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+ [10 <./2/24_e_k10_2t.jpg> <./2/25_y_k1_0,5t2.jpg>]
+<2/26_e_k1_0,5t2.jpg, id=73, 1907.125pt x 611.28375pt>
 File: 2/26_e_k1_0,5t2.jpg Graphic file (type jpg)
 
 <use 2/26_e_k1_0,5t2.jpg>
 Package pdftex.def Info: 2/26_e_k1_0,5t2.jpg used on input line 316.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10 <./2/24_e_k10_2t.jpg> <./2/25_y_k1_0,5t2.jpg>]
-<2/27_y_k5_0,5t2.jpg, id=73, 1907.125pt x 611.28375pt>
+<2/27_y_k5_0,5t2.jpg, id=74, 1907.125pt x 611.28375pt>
 File: 2/27_y_k5_0,5t2.jpg Graphic file (type jpg)
 
 <use 2/27_y_k5_0,5t2.jpg>
-Package pdftex.def Info: 2/27_y_k5_0,5t2.jpg used on input line 326.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
+Package pdftex.def Info: 2/27_y_k5_0,5t2.jpg used on input line 324.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<2/28_e_k5_0,5t2.jpg, id=74, 1907.125pt x 611.28375pt>
+<2/28_e_k5_0,5t2.jpg, id=75, 1907.125pt x 611.28375pt>
 File: 2/28_e_k5_0,5t2.jpg Graphic file (type jpg)
 
 <use 2/28_e_k5_0,5t2.jpg>
-Package pdftex.def Info: 2/28_e_k5_0,5t2.jpg used on input line 332.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
+Package pdftex.def Info: 2/28_e_k5_0,5t2.jpg used on input line 330.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
  [11 <./2/26_e_k1_0,5t2.jpg> <./2/27_y_k5_0,5t2.jpg> <./2/28_e_k5_0,5t2.jpg>]
-<2/29_y_k10_0,5t2.jpg, id=78, 1907.125pt x 611.28375pt>
+<2/29_y_k10_0,5t2.jpg, id=79, 1907.125pt x 611.28375pt>
 File: 2/29_y_k10_0,5t2.jpg Graphic file (type jpg)
 
 <use 2/29_y_k10_0,5t2.jpg>
-Package pdftex.def Info: 2/29_y_k10_0,5t2.jpg used on input line 342.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
+Package pdftex.def Info: 2/29_y_k10_0,5t2.jpg used on input line 340.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<2/30_e_k10_0,5t2.jpg, id=79, 1907.125pt x 611.28375pt>
+<2/30_e_k10_0,5t2.jpg, id=80, 1907.125pt x 611.28375pt>
 File: 2/30_e_k10_0,5t2.jpg Graphic file (type jpg)
 
 <use 2/30_e_k10_0,5t2.jpg>
-Package pdftex.def Info: 2/30_e_k10_0,5t2.jpg used on input line 348.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [12 <./2/29_y_k10_0,5t2.jpg> <./2/30_e_k10_0,5t2.jpg>] <3.jpg, id=83, 411.5375
+Package pdftex.def Info: 2/30_e_k10_0,5t2.jpg used on input line 346.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+ [12 <./2/29_y_k10_0,5t2.jpg> <./2/30_e_k10_0,5t2.jpg>] <3.jpg, id=84, 411.5375
 pt x 170.6375pt>
 File: 3.jpg Graphic file (type jpg)
  <use 3.jpg>
-Package pdftex.def Info: 3.jpg used on input line 360.
-(pdftex.def)             Requested size: 448.12788pt x 185.80891pt.
+Package pdftex.def Info: 3.jpg used on input line 356.
+(pdftex.def)             Requested size: 497.92325pt x 206.45638pt.
 
-<3/31.jpg, id=84, 1907.125pt x 611.28375pt>
+<3/31.jpg, id=85, 1907.125pt x 611.28375pt>
 File: 3/31.jpg Graphic file (type jpg)
  <use 3/31.jpg>
-Package pdftex.def Info: 3/31.jpg used on input line 368.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [13 <./3.jpg> <./3/31.jpg>] <3/32.jpg, id=89, 1907.125pt x 611.28375pt>
+Package pdftex.def Info: 3/31.jpg used on input line 364.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+
+<3/32.jpg, id=86, 1907.125pt x 611.28375pt>
 File: 3/32.jpg Graphic file (type jpg)
  <use 3/32.jpg>
-Package pdftex.def Info: 3/32.jpg used on input line 374.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
-
-<3/33.jpg, id=90, 1907.125pt x 611.28375pt>
+Package pdftex.def Info: 3/32.jpg used on input line 370.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+ [13 <./3.jpg> <./3/31.jpg> <./3/32.jpg>] <3/33.jpg, id=91, 1907.125pt x 611.28
+375pt>
 File: 3/33.jpg Graphic file (type jpg)
- <use 3/33.jpg>
-Package pdftex.def Info: 3/33.jpg used on input line 382.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
 
-<3/34.jpg, id=91, 1907.125pt x 611.28375pt>
+<use 3/33.jpg>
+Package pdftex.def Info: 3/33.jpg used on input line 380.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+ <3/34.jpg, id=92, 1907.125pt x 611.28375pt>
 File: 3/34.jpg Graphic file (type jpg)
  <use 3/34.jpg>
-Package pdftex.def Info: 3/34.jpg used on input line 388.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
- [14 <./3/32.jpg> <./3/33.jpg> <./3/34.jpg>] <4.jpg, id=95, 502.87875pt x 164.6
-15pt>
-File: 4.jpg Graphic file (type jpg)
- <use 4.jpg>
-Package pdftex.def Info: 4.jpg used on input line 402.
-(pdftex.def)             Requested size: 448.12788pt x 146.69275pt.
+Package pdftex.def Info: 3/34.jpg used on input line 386.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-<4/35_y.jpg, id=96, 1907.125pt x 605.26125pt>
+[14 <./3/33.jpg> <./3/34.jpg>] <4.jpg, id=96, 502.87875pt x 164.615pt>
+File: 4.jpg Graphic file (type jpg)
+
+<use 4.jpg>
+Package pdftex.def Info: 4.jpg used on input line 400.
+(pdftex.def)             Requested size: 497.92325pt x 162.99194pt.
+ <4/35_y.jpg, id=97, 1907.125pt x 605.26125pt>
 File: 4/35_y.jpg Graphic file (type jpg)
  <use 4/35_y.jpg>
-Package pdftex.def Info: 4/35_y.jpg used on input line 408.
-(pdftex.def)             Requested size: 448.12788pt x 142.21793pt.
+Package pdftex.def Info: 4/35_y.jpg used on input line 406.
+(pdftex.def)             Requested size: 497.92325pt x 158.01993pt.
 
-<4/36_e.jpg, id=97, 1907.125pt x 605.26125pt>
+<4/36_e.jpg, id=98, 1907.125pt x 605.26125pt>
 File: 4/36_e.jpg Graphic file (type jpg)
  <use 4/36_e.jpg>
-Package pdftex.def Info: 4/36_e.jpg used on input line 414.
-(pdftex.def)             Requested size: 448.12788pt x 142.21793pt.
+Package pdftex.def Info: 4/36_e.jpg used on input line 412.
+(pdftex.def)             Requested size: 497.92325pt x 158.01993pt.
  [15 <./4.jpg> <./4/35_y.jpg> <./4/36_e.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 424--428
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--428
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
 
  []
 
-<teylor.jpg, id=101, 251.43938pt x 91.34125pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--428
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--428
+
+ []
+
+<teylor.jpg, id=102, 251.43938pt x 91.34125pt>
 File: teylor.jpg Graphic file (type jpg)
  <use teylor.jpg>
 Package pdftex.def Info: teylor.jpg used on input line 430.
-(pdftex.def)             Requested size: 448.12788pt x 162.79317pt.
+(pdftex.def)             Requested size: 497.92325pt x 180.88269pt.
 
-<4/37_e_teylor.jpg, id=102, 1907.125pt x 611.28375pt>
+<4/37_e_teylor.jpg, id=103, 1907.125pt x 611.28375pt>
 File: 4/37_e_teylor.jpg Graphic file (type jpg)
  <use 4/37_e_teylor.jpg>
 Package pdftex.def Info: 4/37_e_teylor.jpg used on input line 438.
-(pdftex.def)             Requested size: 448.12788pt x 143.63304pt.
+(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
 [16 <./teylor.jpg> <./4/37_e_teylor.jpg>] [17] (lab7.aux)
 
@@ -1262,28 +1350,29 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5554 strings out of 493333
- 75918 string characters out of 3139179
+ 5552 strings out of 493333
+ 75892 string characters out of 3139179
  147926 words of memory out of 3000000
- 8945 multiletter control sequences out of 15000+200000
- 12250 words of font info for 35 fonts, out of 3000000 for 9000
+ 8944 multiletter control sequences out of 15000+200000
+ 11445 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,8n,40p,1003b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,40p,985b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\РРіРѕСЂСЊ\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
-00\labx1095.pk> <C:\Users\РРіРѕСЂСЊ\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
-h\lh-t2a\dpi600\larm1095.pk> <C:\Users\РРіРѕСЂСЊ\AppData\Local\MiKTeX\2.9\font
-s\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk><C:/Igor/Programm/MikTex 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/publi
-c/amsfonts/cm/cmmi12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfon
-ts/cm/cmmi8.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr
-10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
-:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Igor/Pro
-gramm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Igor/Programm/MikT
-ex 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Programm/MikTex 2.9/f
-onts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab7.pdf (17 pages, 2101104 bytes).
+00\labx1200.pk> <C:\Users\РРіРѕСЂСЊ\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\u
+nknown\unknown\dpi600\larm1200.pk> <C:\Users\РРіРѕСЂСЊ\AppData\Local\MiKTeX\2.
+9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk> <C:\Users\РРіРѕСЂСЊ\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1095.pk><C:/Igor/Programm/M
+ikTex 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Igor/Programm/MikTex 2.
+9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cm
+r6.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:
+/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Pr
+ogramm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on lab7.pdf (17 pages, 2119439 bytes).
 PDF statistics:
- 259 PDF objects out of 1000 (max. 8388607)
+ 312 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
