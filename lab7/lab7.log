@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  13 APR 2017 22:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  13 APR 2017 23:15
 entering extended mode
 **./lab7.tex
 (lab7.tex
@@ -1356,7 +1356,7 @@ Here is how much of TeX's memory you used:
  8944 multiletter control sequences out of 15000+200000
  11445 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,8n,40p,985b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,40p,1034b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
 00\labx1200.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\u
 nknown\unknown\dpi600\larm1200.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.
@@ -1370,9 +1370,9 @@ nts/cm/cmr12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cm
 r6.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:
 /Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Pr
 ogramm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab7.pdf (17 pages, 2119439 bytes).
+Output written on lab7.pdf (17 pages, 2119883 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
+ 313 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
