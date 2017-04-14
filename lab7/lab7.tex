@@ -13,58 +13,40 @@
 \usepackage{array}
 \righthyphenmin=2
 \usepackage[left=20mm, top=15mm, right=15mm, bottom=15mm, nohead, footskip=10mm]{geometry} % настройки полей документа
-
+\newcommand\tline[2]{$\underset{\text{#1}}{\text{\underline{\hspace{#2}}}}$}
 \begin{document} 
 % НАЧАЛО ДОКУМЕНТА
 %_______________
-\begin{center}
-	\hfill \break
-	\normalsize{\textbf{Министерство образования и науки Российской Федерации}}\\ 
-	\hfill \break
-	\footnotesize{ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ}\\
-	\hfill \break
-	\normalsiz{\textbf{САНКТ-ПЕТЕРБУРГСКИЙ УНИВЕРСИТЕТ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ, МЕХАНИКИ И ОПТИКИ}}\\
-	\hfill \break
-	\large{Кафедра&\hspace{1cm}\underline{Систем управления и информатики}&\hspace{1cm} Группа \underline{P3340}}\\
-	\hfill \break
-	\hfill\break
-	\hfill \break
-	\hfill \break
-	\hfill \break
-	\hfill \break
-	\LARGE{Лабораторная работа №7}\\
-	\LARGE{Анализ точности систем управления}\\
-	\large{Вариант 9}\\
-\end{center}
-
-\hfill \break
-\hfill \break
-\hfill \break
-\hfill \break
-\normalsize{ 
-	\hfill \break
-	Проверил: & \underline{\hspace{9cm}}(подпись) \\
-	\hfill \break
-	Выполнил: & \underline{\hspace{9cm}}(подпись) \\
-}\\
-\hfill \break
-\hfill \break
-\hfill \break
-\hfill \break
-\hfill \break
-\hfill \break
-\hfill \break
-\hfill \break
-\hfill \break
-\hfill \break
-\normalsize{"\underline{\hspace{0.5cm}}"&\underline{\hspace{3cm}}&20\underline{\hspace{0.5cm}}г.\hspace{2cm}Санкт-Петербург,\hspace{2cm}20\underline{\hspace{0.5cm}}г. }\\
-\hfill \break
-\hfill \break
-\normalsize{Работа выполнена с оценкой&\underline{\hspace{9cm}}}\\
-\hfill \break
-\normalsize{Дата защиты"\underline{\hspace{0.5cm}}"&\underline{\hspace{3cm}}&20\underline{\hspace{0.5cm}}г.}
-\thispagestyle{empty}
-\newpage
+	\begin{titlepage}
+		\centering
+		{\fontsize{12pt}{5cm}\selectfont \bfseries Министерство образования и науки Российской Федерации} \\ \vspace{0.5cm}
+		{\fontsize{7pt}{5cm}\selectfont ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ} \\ 
+		\vspace{1cm}
+		{\fontsize{12pt}{5cm}\selectfont \bfseries САНКТ-ПЕТЕРБУРГСКИЙ УНИВЕРСИТЕТ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ, МЕХАНИКИ И ОПТИКИ} \\ \vspace{1.5cm}
+		
+		{\fontsize{14pt}{5cm}\selectfont Кафедра \hspace{1cm} \underline{Систем Управления и Информатики}  \hspace{1cm} Группа \underline{Р3340}} \\ 
+		\vspace{2cm}
+		
+		{\fontsize{20pt}{5cm}\selectfont \bfseries Лабораторная работа №7} \\
+		{\fontsize{20pt}{5cm}\selectfont \bfseries “Анализ точности систем управления”} \\
+		{\fontsize{14pt}{5cm}\selectfont Вариант - 09} \\
+		\vspace{1.5cm}
+		
+		\flushleft
+		
+		{Выполнил \hspace{0.5cm} \tline{(фамилия, и.о.)}{10cm} (подпись)} \\
+		\vspace{2cm}
+		
+		{Проверил \hspace{0.5cm} \tline{(фамилия, и.о.)}{10cm} (подпись)} \\
+		\vspace{5cm}
+		
+		"\underline{\hspace{0.4cm}}"\hspace{0.1cm}\underline{\hspace{1.5cm}}\hspace{0.1cm}20\underline{\hspace{0.4cm}}г. \hspace{2cm} Санкт-Петербург, \hspace{2cm} 20\underline{\hspace{0.4cm}}г. \\ \vspace{1cm}
+		
+		Работа выполнена с оценкой \hspace{0.5cm} \underline{\hspace{10cm}} \\ 
+		\vspace{1cm}
+		Дата защиты "\underline{\hspace{0.4cm}}"\hspace{0.1cm}\underline{\hspace{1.5cm}}\hspace{0.1cm}20\underline{\hspace{0.4cm}}г.
+		
+	\end{titlepage}
 %_______________	
 \paragraph{Цель работы.}Исследование точностных свойств систем управления.
 \paragraph{Исследование системы с астатизмом нулевого порядка.}Исследуемая система:\\
