@@ -64,63 +64,38 @@ g(t) = A – стационарный режим работы. A = 2\\
 Рассмотрим переходные процессы Y(t) и e(t) при К=1
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/1_y_a2_k1}}
-    \caption{График переходного процесса при К=1}
+    \center{\includegraphics[width=1\linewidth]{1/a2y}}
+    \caption{График переходного процесса}
     \label{two}
 \end{figure}
 
 
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/1_e_a2_k1}}
-    \caption{График ошибки переходного процесса при К=1}
+    \center{\includegraphics[width=1\linewidth]{1/a2e}}
+    \caption{График ошибки переходного процесса}
     \label{tree}
 \end{figure}
 
-\newpage 
+
 
 \large{$\epsilon=\frac {A}{1+k} = 2/(1+1) = 1$}
 
 Из графика видно, что предельное значение установившейся ошибки \\ $\epsilon_y(t) = 1$. Это значение равно значению, полученному аналитическим расчетом.\\
 %______________________Это к =5
 
-Рассмотрим переходные процессы Y(t) и e(t) при К=5
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/1_y_a2_k5}}
-    \caption{График переходного процесса при К=5}
-    \label{four}
-\end{figure}
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/1_e_a2_k5}}
-    \caption{График ошибки переходного процесса при К=5}
-    \label{tree}
-\end{figure}
-
 Из графика видно, что предельное значение установившейся ошибки $\epsilon_y(t)=0.33$.\\
 Это значение подтверждается аналитиическим расчетом: $\epsilon=\frac {A}{1+k} = 2/(1+5) = 0.33$\\
 %________________Это К10
 
-Рассмотрим переходные процессы Y(t) и e(t) при К=10
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/1_y_a2_k10}}
-    \caption{График переходного процесса К=10}
-    \label{four}
-\end{figure}
 
-\newpage 
 
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/1_e_a2_k10}}
-    \caption{График ошибки переходного процесса при К=10}
-    \label{tree}
-\end{figure}
-
-\normalsize{Из графика видно, что предельное значение установившейся ошибки $\epsilon_y(t)=0.2$.
-Это значение очень близко к значению, полученному аналитическим расчетом: $\epsilon=\frac {A}{1+k} = 2/(1+10) = 0.18$}
+Из графика видно, что предельное значение установившейся ошибки $\epsilon_y(t)=0.2$.
+Это значение очень близко к значению, полученному аналитическим расчетом: $\epsilon=\frac {A}{1+k} = 2/(1+10) = 0.18$
 
 \begin{table}[h]
     \begin{center}
+   	\caption{Зависимость коэффициента от ошибки}
     \begin{tabular}{|c|c|c|c|}
     \hline
          K & 1 & 5 & 10 \\
@@ -128,57 +103,25 @@ g(t) = A – стационарный режим работы. A = 2\\
          $\epsilon$ & 1 & 0.33 & 0.18 \\
     \hline     
     \end{tabular}
-    \caption{Зависимость коэффициента от ошибки}
+
     \label{tab:my_label}
     \end{center}
 \end{table}
-
+\newpage
 %_______________ПРИ g(t)=Vt
 б) g(t) = Vt – движение с постоянной скоростью. V = 2\\
 
-Рассмотрим переходные процессы Y(t) и e(t) при К=1
+Рассмотрим переходные процессы Y(t) и e(t)
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/7}}
-    \caption{График переходного процесса при К=1}
+    \center{\includegraphics[width=1\linewidth]{1/v2ty}}
+    \caption{График переходного процесса}
     \label{four}
 \end{figure}
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/8}}
-    \caption{График ошибки переходного процесса при К=1}
-    \label{tree}
-\end{figure}
-
-\newpage
-
-Рассмотрим переходные процессы Y(t) и e(t) при К=5
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/9}}
-    \caption{График переходного процесса при К=5}
-    \label{four}
-\end{figure}
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/10}}
-    \caption{График ошибки переходного процесса при К=5}
-    \label{tree}
-\end{figure}
-
-Рассмотрим переходные процессы Y(t) и e(t) при К=10
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/11}}
-    \caption{График переходного процесса при К=10}
-    \label{four}
-\end{figure}
-
-\newpage
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{1/12}}
-    \caption{График ошибки переходного процесса при К=10}
+    \center{\includegraphics[width=1\linewidth]{1/v2te}}
+    \caption{График ошибки переходного процесса}
     \label{tree}
 \end{figure}
 
@@ -203,16 +146,16 @@ $\epsilon_y(t)=\lim_{s\to0}s\frac{1}{1+W(s)}\frac{V}{s^2}=\lim_{s\to0}\frac{1}{1
 
 g(t) = A – стационарный режим работы. A = 2.\\
 
-Рассмотрим переходные процессы Y(t) и e(t) при К=1
+Рассмотрим переходные процессы Y(t) и e(t)
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/2_13}}
-    \caption{График переходного процесса при К=1}
+    \center{\includegraphics[width=1\linewidth]{2/1a2y}}
+    \caption{График переходного процесса}
     \label{two}
 \end{figure}
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/14}}
-    \caption{График ошибки переходного процесса при К=1}
+    \center{\includegraphics[width=1\linewidth]{2/1a2e}}
+    \caption{График ошибки переходного процесса}
     \label{tree}
 \end{figure}
 
@@ -220,38 +163,6 @@ g(t) = A – стационарный режим работы. A = 2.\\
 
 Из графика видно, что предельное значение установившейся ошибки $\epsilon_y(t)=0$. Это значение подтверждается аналитическим расчетом: $\epsilon_y(t)=\lim_{s\to0}\frac{s}{s+k}A=0$\\
 
-Рассмотрим переходные процессы Y(t) и e(t) при К=5
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/15}}
-    \caption{График переходного процесса при К=5}
-    \label{two}
-\end{figure}
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/16_e_k5_a2}}
-    \caption{График ошибки переходного процесса при К=5}
-    \label{tree}
-\end{figure}
-
-$\epsilon_y(t)=0$\\
-
-Рассмотрим переходные процессы Y(t) и e(t) при К=10
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/17_y_k10_a2}}
-    \caption{График переходного процесса при К=10}
-    \label{two}
-\end{figure}
-
-\newpage
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/18_e_k10_a2}}
-    \caption{График ошибки переходного процесса при К=10}
-    \label{tree}
-\end{figure}
-
-$\epsilon_y(t)=0$\\
 
 Во всех трех случаях $\epsilon = 0$\\
 
@@ -261,55 +172,28 @@ $\epsilon_y(t)=0$\\
 %___________________Б-часть второго параграфа
 g(t)=Vt – движение с постоянной скоростью.  $V = 2; \epsilon=\frac{V}{K}$\\
 
-Рассмотрим переходные процессы Y(t) и e(t) при К=1
+Рассмотрим переходные процессы Y(t) и e(t)
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/19_y_k1_2t}}
-    \caption{График переходного процесса при К=1}
+    \center{\includegraphics[width=1\linewidth]{2/1v2ty}}
+    \caption{График переходного процесса}
     \label{two}
 \end{figure}
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/20_e_k1_2t}}
-    \caption{График ошибки переходного процесса при К=1}
+    \center{\includegraphics[width=1\linewidth]{2/1v2te}}
+    \caption{График ошибки переходного процесса}
     \label{tree}
 \end{figure}
 
 \newpage
 
 Из графика видно, что предельное значение установившейся ошибки $\epsilon_y(t)=2$. Это значение подтверждается аналитическим расчетом: $\epsilon_y(t)=\lim_{s\to0}\frac{s}{s+k}V=\frac{V}{k}=2$\\
-
-Рассмотрим переходные процессы Y(t) и e(t) при К=5
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/21_y_k5_2t}}
-    \caption{График переходного процесса при К=5}
-    \label{two}
-\end{figure}
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/22_e_k5_2t}}
-    \caption{График ошибки переходного процесса при К=5}
-    \label{tree}
-\end{figure}
+k5
 
 Из графика видно, что предельное значение установившейся ошибки $\epsilon_y(t)=0.4$. Это значение подтверждается аналитическим расчетом: $\epsilon_y(t)=\lim_{s\to0}\frac{s}{s+k}V=\frac{V}{k}=0.4$\\
 
 Рассмотрим переходные процессы Y(t) и e(t) при К=10
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/23_y_k10_2t}}
-    \caption{График переходного процесса при К=10}
-    \label{two}
-\end{figure}
-
-\newpage
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/24_e_k10_2t}}
-    \caption{График ошибки переходного процесса при К=10}
-    \label{tree}
-\end{figure}
 
 Из графика видно, что предельное значение установившейся ошибки $\epsilon_y(t)=0.2$. Это значение подтверждается аналитическим расчетом: $\epsilon_y(t)=\lim_{s\to0}\frac{s}{s+k}V=\frac{V}{k}=0.2$\\
 
@@ -330,53 +214,22 @@ g(t)=Vt – движение с постоянной скоростью.  $V = 2
 \textbf{Вывод.} У системы управления (СУ) с первым порядком астатизма при линейно изменяющимся задающем воздействии (Vt) установившаяся ошибка равна $\epsilon=V/K$\\
 
 %_______________В в параграфе 2
-
+\newpage
 $g(t)=at^2/2$ – движение с постоянным ускорением.\\
 
-Рассмотрим переходные процессы Y(t) и e(t) при К=1
+Рассмотрим переходные процессы Y(t) и e(t)
 
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/25_y_k1_0,5t2}}
-    \caption{График переходного процесса при К=1}
+    \center{\includegraphics[width=1\linewidth]{2/1g05ty}}
+    \caption{График переходного процесса}
     \label{two}
 \end{figure}
 
-\newpage
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/26_e_k1_0,5t2}}
-    \caption{График ошибки переходного процесса при К=1}
-    \label{tree}
-\end{figure}
-
-Рассмотрим переходные процессы Y(t) и e(t) при К=5
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/27_y_k5_0,5t2}}
-    \caption{График переходного процесса при К=5}
-    \label{two}
-\end{figure}
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/28_e_k5_0,5t2}}
-    \caption{График ошибки переходного процесса при К=5}
-    \label{tree}
-\end{figure}
-
-\newpage
-
-Рассмотрим переходные процессы Y(t) и e(t) при К=10
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/29_y_k10_0,5t2}}
-    \caption{График переходного процесса при К=10}
-    \label{two}
-\end{figure}
-
-\begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{2/30_e_k10_0,5t2}}
-    \caption{График ошибки переходного процесса при К=10}
+    \center{\includegraphics[width=1\linewidth]{2/1g05te}}
+    \caption{График ошибки переходного процесса}
     \label{tree}
 \end{figure}
 
@@ -393,33 +246,33 @@ $g(t)=at^2/2$ – движение с постоянным ускорением.
 Зададим $f_2(t) = 0, g(t) = 1(t)$
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{3/31}}
+    \center{\includegraphics[width=1\linewidth]{3/3f20y}}
     \caption{График переходного процесса при $f_2(t) = 0$}
     \label{two}
 \end{figure}
-
+\newpage
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{3/32}}
+    \center{\includegraphics[width=1\linewidth]{3/3f20e}}
     \caption{График ошибки переходного процесса при $f_2(t) = 0$}
     \label{tree}
 \end{figure}
 
-\newpage
+
 
 Зададим $f_1(t) = 0, g(t) = 1(t)$
 
 \begin{figure}[h]
-    \center{\includegraphics[width=1\linewidth]{3/33}}
-    \caption{График переходного процесса.}
+    \center{\includegraphics[width=1\linewidth]{3/3f10y}}
+    \caption{График переходного процесса при $f_1(t) = 0$}
     \label{two}
 \end{figure}
     
 \begin{figure}[h]
-    \center{\includegraphics[width=1\linewidth]{3/34}}
-    \caption{График ошибки переходного процесса.}
+    \center{\includegraphics[width=1\linewidth]{3/3f10e}}
+    \caption{График ошибки переходного процесса при $f_1(t) = 0$}
     \label{tree}
 \end{figure}
-
+\newpage
 Из графика видно, что предельное значение установившейся ошибки $e_y(t)=-0.5$. Это значение подтверждается аналитическим расчетом:
 $e_y(t)=F_2=-0.5$
 \newpage
@@ -435,13 +288,13 @@ g(t)=2+0.1t^2;$
 \end{figure}
 
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{4/35_y}}
+    \center{\includegraphics[width=1\linewidth]{4/4_1y}}
     \caption{График переходного процесса.}
     \label{two}
 \end{figure}
     
 \begin{figure}[h!]
-    \center{\includegraphics[width=1\linewidth]{4/36_e}}
+    \center{\includegraphics[width=1\linewidth]{4/4_1e}}
     \caption{График ошибки переходного процесса.}
     \label{tree}
 \end{figure}
@@ -467,11 +320,11 @@ $e_y(t)=0.5(2+0.1t^2)+0.125*0.1t+0.125*0.1$
 \normalsize{При $t=0, e_s(t)=0.125$}
 
 \begin{figure}[h]
-    \center{\includegraphics[width=1\linewidth]{4/37_e_teylor}}
+    \center{\includegraphics[width=1\linewidth]{4/4_2teylor}}
     \caption{График ошибки переходного процесса.}
     \label{tree}
 \end{figure}
-\newpage
+
 \paragraph{Вывод.} В данной работе мы исследовали передаточные функции с различным остатизмом, при наличии внешних возмущений и без них. Получили установившиеся значения ошибки и сигнала. Проведенные исследования показали, что когда сигнал g = A, при увеличении коэффициента усиления К, ошибка стремится к нулю. Также на факт наличия или отсутствия установившейся ошибки влияет порядок астатизма. При увеличении порядка астатизма ошибка исчезает, становится равной нулю. Сильно влияют и внешние возмущения, при их наличии входной сигнал увеличивается.
 
 \end{document} % КОНЕЦ ДОКУМЕНТА !
