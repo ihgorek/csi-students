@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  18 APR 2017 14:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  19 APR 2017 20:06
 entering extended mode
 **./lab7.tex
 (lab7.tex
@@ -805,20 +805,20 @@ LaTeX Warning: Label `tree' multiply defined.
 )
 \openout1 = `lab7.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
  ("C:\Igor\Programm\MikTex 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count113
@@ -912,219 +912,219 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 27.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 31.
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 30.
+(Font)              size <20.74> substituted on input line 34.
 
 
 LaTeX Font Warning: Font shape `T2A/cmr/bx/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 30.
+(Font)              size <20.74> substituted on input line 34.
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<1.jpg, id=11, 469.755pt x 126.4725pt>
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1]
+<1.jpg, id=19, 469.755pt x 126.4725pt>
 File: 1.jpg Graphic file (type jpg)
  <use 1.jpg>
-Package pdftex.def Info: 1.jpg used on input line 67.
+Package pdftex.def Info: 1.jpg used on input line 75.
 (pdftex.def)             Requested size: 497.92325pt x 134.05634pt.
 
-<1/a2y.jpg, id=12, 1907.125pt x 611.28375pt>
+<1/a2y.jpg, id=20, 1907.125pt x 611.28375pt>
 File: 1/a2y.jpg Graphic file (type jpg)
  <use 1/a2y.jpg>
-Package pdftex.def Info: 1/a2y.jpg used on input line 73.
+Package pdftex.def Info: 1/a2y.jpg used on input line 81.
 (pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
- [1 <./1.jpg> <./1/a2y.jpg>] <1/a2e.jpg, id=22, 1907.125pt x 611.28375pt>
+
+<1/a2e.jpg, id=21, 1907.125pt x 611.28375pt>
 File: 1/a2e.jpg Graphic file (type jpg)
  <use 1/a2e.jpg>
-Package pdftex.def Info: 1/a2e.jpg used on input line 81.
+Package pdftex.def Info: 1/a2e.jpg used on input line 89.
 (pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
-
-<1/v2ty.jpg, id=23, 1927.2pt x 926.46124pt>
+ [2 <./1.jpg> <./1/a2y.jpg> <./1/a2e.jpg>] <1/v2ty.jpg, id=26, 1927.2pt x 926.4
+6124pt>
 File: 1/v2ty.jpg Graphic file (type jpg)
- <use 1/v2ty.jpg>
-Package pdftex.def Info: 1/v2ty.jpg used on input line 116.
+
+<use 1/v2ty.jpg>
+Package pdftex.def Info: 1/v2ty.jpg used on input line 125.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
- [2 <./1/a2e.jpg> <./1/v2ty.jpg>] <1/v2te.jpg, id=28, 1927.2pt x 926.46124pt>
+ <1/v2te.jpg, id=27, 1927.2pt x 926.46124pt>
 File: 1/v2te.jpg Graphic file (type jpg)
  <use 1/v2te.jpg>
-Package pdftex.def Info: 1/v2te.jpg used on input line 124.
+Package pdftex.def Info: 1/v2te.jpg used on input line 130.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
-
- []
-
-[3 <./1/v2te.jpg>] <2.jpg, id=33, 322.20375pt x 140.525pt>
+[3 <./1/v2ty.jpg> <./1/v2te.jpg>] <2.jpg, id=33, 322.20375pt x 140.525pt>
 File: 2.jpg Graphic file (type jpg)
- <use 2.jpg>
-Package pdftex.def Info: 2.jpg used on input line 143.
-(pdftex.def)             Requested size: 497.92325pt x 217.17249pt.
 
-<2/1a2y.jpg, id=34, 1927.2pt x 926.46124pt>
+<use 2.jpg>
+Package pdftex.def Info: 2.jpg used on input line 151.
+(pdftex.def)             Requested size: 497.92325pt x 217.17249pt.
+ <2/1a2y.jpg, id=34, 1927.2pt x 926.46124pt>
 File: 2/1a2y.jpg Graphic file (type jpg)
  <use 2/1a2y.jpg>
-Package pdftex.def Info: 2/1a2y.jpg used on input line 150.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
- [4 <./2.jpg> <./2/1a2y.jpg>] <2/1a2e.jpg, id=40, 1927.2pt x 926.46124pt>
-File: 2/1a2e.jpg Graphic file (type jpg)
- <use 2/1a2e.jpg>
-Package pdftex.def Info: 2/1a2e.jpg used on input line 158.
+Package pdftex.def Info: 2/1a2y.jpg used on input line 158.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+[4 <./2.jpg> <./2/1a2y.jpg>] <2/1a2e.jpg, id=40, 1927.2pt x 926.46124pt>
+File: 2/1a2e.jpg Graphic file (type jpg)
+
+<use 2/1a2e.jpg>
+Package pdftex.def Info: 2/1a2e.jpg used on input line 166.
+(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
 <2/1v2ty.jpg, id=41, 1927.2pt x 926.46124pt>
 File: 2/1v2ty.jpg Graphic file (type jpg)
  <use 2/1v2ty.jpg>
-Package pdftex.def Info: 2/1v2ty.jpg used on input line 171.
+Package pdftex.def Info: 2/1v2ty.jpg used on input line 179.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
  [5 <./2/1a2e.jpg> <./2/1v2ty.jpg>] <2/1v2te.jpg, id=46, 1907.125pt x 611.28375
 pt>
 File: 2/1v2te.jpg Graphic file (type jpg)
 
 <use 2/1v2te.jpg>
-Package pdftex.def Info: 2/1v2te.jpg used on input line 179.
+Package pdftex.def Info: 2/1v2te.jpg used on input line 187.
 (pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
 <2/1g05ty.jpg, id=47, 1927.2pt x 926.46124pt>
 File: 2/1g05ty.jpg Graphic file (type jpg)
  <use 2/1g05ty.jpg>
-Package pdftex.def Info: 2/1g05ty.jpg used on input line 211.
+Package pdftex.def Info: 2/1g05ty.jpg used on input line 217.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
  [6 <./2/1v2te.jpg> <./2/1g05ty.jpg>] <2/1g05te.jpg, id=52, 1927.2pt x 926.4612
 4pt>
 File: 2/1g05te.jpg Graphic file (type jpg)
 
 <use 2/1g05te.jpg>
-Package pdftex.def Info: 2/1g05te.jpg used on input line 219.
+Package pdftex.def Info: 2/1g05te.jpg used on input line 225.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
  [7 <./2/1g05te.jpg>]
 <3.jpg, id=56, 438.13687pt x 167.62625pt>
 File: 3.jpg Graphic file (type jpg)
  <use 3.jpg>
-Package pdftex.def Info: 3.jpg used on input line 231.
+Package pdftex.def Info: 3.jpg used on input line 239.
 (pdftex.def)             Requested size: 497.92325pt x 190.50249pt.
 
 <3/3f20y.jpg, id=57, 1927.2pt x 926.46124pt>
 File: 3/3f20y.jpg Graphic file (type jpg)
  <use 3/3f20y.jpg>
-Package pdftex.def Info: 3/3f20y.jpg used on input line 239.
+Package pdftex.def Info: 3/3f20y.jpg used on input line 247.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
  [8 <./3.jpg> <./3/3f20y.jpg>] <3/3f20e.jpg, id=61, 1927.2pt x 926.46124pt>
 File: 3/3f20e.jpg Graphic file (type jpg)
  <use 3/3f20e.jpg>
-Package pdftex.def Info: 3/3f20e.jpg used on input line 247.
+Package pdftex.def Info: 3/3f20e.jpg used on input line 255.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
 
 <3/3f10y.jpg, id=62, 1927.2pt x 926.46124pt>
 File: 3/3f10y.jpg Graphic file (type jpg)
  <use 3/3f10y.jpg>
-Package pdftex.def Info: 3/3f10y.jpg used on input line 255.
+Package pdftex.def Info: 3/3f10y.jpg used on input line 263.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
  [9 <./3/3f20e.jpg> <./3/3f10y.jpg>] <3/3f10e.jpg, id=66, 1927.2pt x 926.46124p
 t>
 File: 3/3f10e.jpg Graphic file (type jpg)
 
 <use 3/3f10e.jpg>
-Package pdftex.def Info: 3/3f10e.jpg used on input line 263.
+Package pdftex.def Info: 3/3f10e.jpg used on input line 271.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
  [10 <./3/3f10e.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
 
 <4.jpg, id=70, 490.33188pt x 170.13562pt>
 File: 4.jpg Graphic file (type jpg)
  <use 4.jpg>
-Package pdftex.def Info: 4.jpg used on input line 287.
+Package pdftex.def Info: 4.jpg used on input line 296.
 (pdftex.def)             Requested size: 497.92325pt x 172.77538pt.
 
 <4/4_1y.jpg, id=71, 1927.2pt x 926.46124pt>
 File: 4/4_1y.jpg Graphic file (type jpg)
  <use 4/4_1y.jpg>
-Package pdftex.def Info: 4/4_1y.jpg used on input line 293.
+Package pdftex.def Info: 4/4_1y.jpg used on input line 302.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
  [11 <./4.jpg> <./4/4_1y.jpg>] <4/4_1e.jpg, id=75, 1927.2pt x 926.46124pt>
 File: 4/4_1e.jpg Graphic file (type jpg)
  <use 4/4_1e.jpg>
-Package pdftex.def Info: 4/4_1e.jpg used on input line 301.
+Package pdftex.def Info: 4/4_1e.jpg used on input line 310.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--309
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--312
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 313--314
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 317--318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 319--320
+Underfull \hbox (badness 10000) in paragraph at lines 319--321
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
 
  []
 
-[12 <./4/4_1e.jpg>] <teylor.jpg, id=81, 314.17375pt x 124.96687pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+
+ []
+
+[12 <./4/4_1e.jpg>] <teylor.jpg, id=80, 314.17375pt x 124.96687pt>
 File: teylor.jpg Graphic file (type jpg)
 
 <use teylor.jpg>
-Package pdftex.def Info: teylor.jpg used on input line 332.
+Package pdftex.def Info: teylor.jpg used on input line 341.
 (pdftex.def)             Requested size: 497.92325pt x 198.06522pt.
- <4/4_2teylor.jpg, id=82, 1927.2pt x 926.46124pt>
+ <4/4_2teylor.jpg, id=81, 1927.2pt x 926.46124pt>
 File: 4/4_2teylor.jpg Graphic file (type jpg)
 
 <use 4/4_2teylor.jpg>
-Package pdftex.def Info: 4/4_2teylor.jpg used on input line 338.
+Package pdftex.def Info: 4/4_2teylor.jpg used on input line 347.
 (pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
- [13 <./teylor.jpg> <./4/4_2teylor.jpg>] (lab7.aux)
+ [13 <./teylor.jpg> <./4/4_2teylor.jpg>] [14] (lab7.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
@@ -1134,35 +1134,34 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5494 strings out of 493333
- 74560 string characters out of 3139179
- 147965 words of memory out of 3000000
- 8899 multiletter control sequences out of 15000+200000
- 18701 words of font info for 47 fonts, out of 3000000 for 9000
+ 5495 strings out of 493333
+ 74592 string characters out of 3139179
+ 148009 words of memory out of 3000000
+ 8901 multiletter control sequences out of 15000+200000
+ 17875 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,10n,40p,1048b,334s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,40p,1014b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\unknown\unknow
 n\dpi600\larm1200.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\lj
-four\lh\lh-t2a\dpi600\labx1095.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.
-9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\Игорь\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk> <C:\Users\Игор
-ь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk> <C:\U
-sers\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2
-074.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a
-\dpi600\larm1440.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\lh\lh-t2a\dpi600\larm0700.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9
-\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk><C:/Igor/Programm/MikTex 2.9/font
-s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/
-public/amsfonts/cm/cmmi12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/a
-msfonts/cm/cmmi8.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
-fb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Igo
-r/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Igor/Programm
-/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Programm/MikTex 
-2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab7.pdf (14 pages, 1608469 bytes).
+four\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.
+9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk> <C:\Users\Игорь\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk> <C:\Users\Игор
+ь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\U
+sers\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1
+440.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a
+\dpi600\larm0700.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\lh\lh-t2a\dpi600\labx1200.pk><C:/Igor/Programm/MikTex 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Igor/P
+rogramm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Igor/Programm/Mi
+kTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Igor/Programm/MikTex 2.9/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy8.pfb>
+Output written on lab7.pdf (15 pages, 1605848 bytes).
 PDF statistics:
- 456 PDF objects out of 1000 (max. 8388607)
+ 446 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
