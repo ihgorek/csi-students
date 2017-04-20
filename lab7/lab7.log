@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  20 APR 2017 00:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  20 APR 2017 22:42
 entering extended mode
 **./lab7.tex
 (lab7.tex
@@ -934,185 +934,180 @@ File: 1.jpg Graphic file (type jpg)
 Package pdftex.def Info: 1.jpg used on input line 78.
 (pdftex.def)             Requested size: 497.92325pt x 134.05634pt.
 
-<1/a2y.jpg, id=20, 1907.125pt x 611.28375pt>
+<1/a2y.jpg, id=20, 1907.125pt x 866.23625pt>
 File: 1/a2y.jpg Graphic file (type jpg)
  <use 1/a2y.jpg>
 Package pdftex.def Info: 1/a2y.jpg used on input line 84.
-(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
-
-<1/a2e.jpg, id=21, 1907.125pt x 611.28375pt>
+(pdftex.def)             Requested size: 497.92325pt x 226.15457pt.
+ [2 <./1.jpg> <./1/a2y.jpg>] <1/a2e.jpg, id=24, 1907.125pt x 866.23625pt>
 File: 1/a2e.jpg Graphic file (type jpg)
  <use 1/a2e.jpg>
 Package pdftex.def Info: 1/a2e.jpg used on input line 92.
-(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
- [2 <./1.jpg> <./1/a2y.jpg> <./1/a2e.jpg>] <1/v2ty.jpg, id=26, 1927.2pt x 926.4
-6124pt>
+(pdftex.def)             Requested size: 497.92325pt x 226.15457pt.
+ [3 <./1/a2e.jpg>] <1/v2ty.jpg, id=29, 1907.125pt x 866.23625pt>
 File: 1/v2ty.jpg Graphic file (type jpg)
+ <use 1/v2ty.jpg>
+Package pdftex.def Info: 1/v2ty.jpg used on input line 131.
+(pdftex.def)             Requested size: 497.92325pt x 226.15457pt.
 
-<use 1/v2ty.jpg>
-Package pdftex.def Info: 1/v2ty.jpg used on input line 129.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
- <1/v2te.jpg, id=27, 1927.2pt x 926.46124pt>
+<1/v2te.jpg, id=30, 1907.125pt x 866.23625pt>
 File: 1/v2te.jpg Graphic file (type jpg)
  <use 1/v2te.jpg>
-Package pdftex.def Info: 1/v2te.jpg used on input line 134.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
-
-[3 <./1/v2ty.jpg> <./1/v2te.jpg>] [4] <2.jpg, id=36, 322.20375pt x 140.525pt>
+Package pdftex.def Info: 1/v2te.jpg used on input line 137.
+(pdftex.def)             Requested size: 497.92325pt x 226.15457pt.
+ [4 <./1/v2ty.jpg> <./1/v2te.jpg>] <2.jpg, id=36, 322.20375pt x 140.525pt>
 File: 2.jpg Graphic file (type jpg)
-
-<use 2.jpg>
-Package pdftex.def Info: 2.jpg used on input line 156.
+ <use 2.jpg>
+Package pdftex.def Info: 2.jpg used on input line 159.
 (pdftex.def)             Requested size: 497.92325pt x 217.17249pt.
- <2/1a2y.jpg, id=37, 1927.2pt x 926.46124pt>
+
+<2/1a2y.jpg, id=37, 1927.2pt x 935.495pt>
 File: 2/1a2y.jpg Graphic file (type jpg)
  <use 2/1a2y.jpg>
-Package pdftex.def Info: 2/1a2y.jpg used on input line 163.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
-
-[5 <./2.jpg> <./2/1a2y.jpg>] <2/1a2e.jpg, id=43, 1927.2pt x 926.46124pt>
+Package pdftex.def Info: 2/1a2y.jpg used on input line 166.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
+ [5 <./2.jpg> <./2/1a2y.jpg>] <2/1a2e.jpg, id=43, 1927.2pt x 935.495pt>
 File: 2/1a2e.jpg Graphic file (type jpg)
+ <use 2/1a2e.jpg>
+Package pdftex.def Info: 2/1a2e.jpg used on input line 174.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
 
-<use 2/1a2e.jpg>
-Package pdftex.def Info: 2/1a2e.jpg used on input line 171.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
-<2/1v2ty.jpg, id=44, 1927.2pt x 926.46124pt>
+<2/1v2ty.jpg, id=44, 1927.2pt x 935.495pt>
 File: 2/1v2ty.jpg Graphic file (type jpg)
  <use 2/1v2ty.jpg>
-Package pdftex.def Info: 2/1v2ty.jpg used on input line 186.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
- [6 <./2/1a2e.jpg> <./2/1v2ty.jpg>] <2/1v2te.jpg, id=50, 1907.125pt x 611.28375
+Package pdftex.def Info: 2/1v2ty.jpg used on input line 189.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
+ [6 <./2/1a2e.jpg> <./2/1v2ty.jpg>] <2/1v2te.jpg, id=50, 1907.125pt x 866.23625
 pt>
 File: 2/1v2te.jpg Graphic file (type jpg)
 
 <use 2/1v2te.jpg>
-Package pdftex.def Info: 2/1v2te.jpg used on input line 194.
-(pdftex.def)             Requested size: 497.92325pt x 159.59227pt.
+Package pdftex.def Info: 2/1v2te.jpg used on input line 197.
+(pdftex.def)             Requested size: 497.92325pt x 226.15457pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
 
  []
 
-<2/1g05ty.jpg, id=51, 1927.2pt x 926.46124pt>
+[7 <./2/1v2te.jpg>] <2/1g05ty.jpg, id=54, 1927.2pt x 935.495pt>
 File: 2/1g05ty.jpg Graphic file (type jpg)
- <use 2/1g05ty.jpg>
-Package pdftex.def Info: 2/1g05ty.jpg used on input line 225.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
- [7 <./2/1v2te.jpg> <./2/1g05ty.jpg>] <2/1g05te.jpg, id=55, 1927.2pt x 926.4612
-4pt>
+
+<use 2/1g05ty.jpg>
+Package pdftex.def Info: 2/1g05ty.jpg used on input line 228.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
+ <2/1g05te.jpg, id=55, 1927.2pt x 935.495pt>
 File: 2/1g05te.jpg Graphic file (type jpg)
 
 <use 2/1g05te.jpg>
-Package pdftex.def Info: 2/1g05te.jpg used on input line 233.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
- [8 <./2/1g05te.jpg>]
+Package pdftex.def Info: 2/1g05te.jpg used on input line 236.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
+ [8 <./2/1g05ty.jpg> <./2/1g05te.jpg>]
 <3.jpg, id=59, 438.13687pt x 167.62625pt>
 File: 3.jpg Graphic file (type jpg)
  <use 3.jpg>
-Package pdftex.def Info: 3.jpg used on input line 247.
+Package pdftex.def Info: 3.jpg used on input line 250.
 (pdftex.def)             Requested size: 497.92325pt x 190.50249pt.
 
-<3/3f20y.jpg, id=60, 1927.2pt x 926.46124pt>
+<3/3f20y.jpg, id=60, 1927.2pt x 935.495pt>
 File: 3/3f20y.jpg Graphic file (type jpg)
  <use 3/3f20y.jpg>
-Package pdftex.def Info: 3/3f20y.jpg used on input line 255.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
- [9 <./3.jpg> <./3/3f20y.jpg>] <3/3f20e.jpg, id=64, 1927.2pt x 926.46124pt>
+Package pdftex.def Info: 3/3f20y.jpg used on input line 258.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
+ [9 <./3.jpg> <./3/3f20y.jpg>] <3/3f20e.jpg, id=64, 1927.2pt x 935.495pt>
 File: 3/3f20e.jpg Graphic file (type jpg)
  <use 3/3f20e.jpg>
-Package pdftex.def Info: 3/3f20e.jpg used on input line 263.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
+Package pdftex.def Info: 3/3f20e.jpg used on input line 266.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
 
-<3/3f10y.jpg, id=65, 1927.2pt x 926.46124pt>
+<3/3f10y.jpg, id=65, 1927.2pt x 935.495pt>
 File: 3/3f10y.jpg Graphic file (type jpg)
  <use 3/3f10y.jpg>
-Package pdftex.def Info: 3/3f10y.jpg used on input line 271.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
- [10 <./3/3f20e.jpg> <./3/3f10y.jpg>] <3/3f10e.jpg, id=69, 1927.2pt x 926.46124
-pt>
+Package pdftex.def Info: 3/3f10y.jpg used on input line 274.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
+ [10 <./3/3f20e.jpg> <./3/3f10y.jpg>] <3/3f10e.jpg, id=69, 1927.2pt x 935.495pt
+>
 File: 3/3f10e.jpg Graphic file (type jpg)
 
 <use 3/3f10e.jpg>
-Package pdftex.def Info: 3/3f10e.jpg used on input line 279.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
+Package pdftex.def Info: 3/3f10e.jpg used on input line 282.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
  [11 <./3/3f10e.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 295--296
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--298
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
 
  []
 
 <4.jpg, id=73, 490.33188pt x 170.13562pt>
 File: 4.jpg Graphic file (type jpg)
  <use 4.jpg>
-Package pdftex.def Info: 4.jpg used on input line 304.
+Package pdftex.def Info: 4.jpg used on input line 307.
 (pdftex.def)             Requested size: 497.92325pt x 172.77538pt.
 
-<4/4_1y.jpg, id=74, 1927.2pt x 926.46124pt>
+<4/4_1y.jpg, id=74, 1927.2pt x 935.495pt>
 File: 4/4_1y.jpg Graphic file (type jpg)
  <use 4/4_1y.jpg>
-Package pdftex.def Info: 4/4_1y.jpg used on input line 310.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
- [12 <./4.jpg> <./4/4_1y.jpg>] <4/4_1e.jpg, id=79, 1927.2pt x 926.46124pt>
+Package pdftex.def Info: 4/4_1y.jpg used on input line 313.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
+ [12 <./4.jpg> <./4/4_1y.jpg>] <4/4_1e.jpg, id=79, 1927.2pt x 935.495pt>
 File: 4/4_1e.jpg Graphic file (type jpg)
  <use 4/4_1e.jpg>
-Package pdftex.def Info: 4/4_1e.jpg used on input line 318.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
+Package pdftex.def Info: 4/4_1e.jpg used on input line 321.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--329
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--337
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
 
  []
 
@@ -1120,14 +1115,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 342--343
 File: teylor.jpg Graphic file (type jpg)
 
 <use teylor.jpg>
-Package pdftex.def Info: teylor.jpg used on input line 349.
+Package pdftex.def Info: teylor.jpg used on input line 352.
 (pdftex.def)             Requested size: 497.92325pt x 198.06522pt.
- <4/4_2teylor.jpg, id=84, 1927.2pt x 926.46124pt>
+ <4/4_2teylor.jpg, id=84, 1927.2pt x 935.495pt>
 File: 4/4_2teylor.jpg Graphic file (type jpg)
 
 <use 4/4_2teylor.jpg>
-Package pdftex.def Info: 4/4_2teylor.jpg used on input line 355.
-(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
+Package pdftex.def Info: 4/4_2teylor.jpg used on input line 358.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
  [14 <./teylor.jpg> <./4/4_2teylor.jpg>] [15] (lab7.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1144,7 +1139,7 @@ Here is how much of TeX's memory you used:
  8901 multiletter control sequences out of 15000+200000
  17875 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,10n,40p,1026b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,40p,1045b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\unknown\unknow
 n\dpi600\larm1200.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\lj
 four\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.
@@ -1163,7 +1158,7 @@ rogramm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Igor/Programm/Mi
 kTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Igor/Programm/MikTex 2.9/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab7.pdf (16 pages, 1606285 bytes).
+Output written on lab7.pdf (16 pages, 1709352 bytes).
 PDF statistics:
  449 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
