@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  27 APR 2017 00:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  2 MAY 2017 00:51
 entering extended mode
-**./lab8.tex
-(lab8.tex
+**./lab9.tex
+(lab9.tex
 LaTeX2e <2017/01/01> patch level 1
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Igor\Programm\MikTex 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Igor\Programm\MikTex 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -750,23 +750,23 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen149
 \Gm@dimlist=\toks26
 
-("C:\Igor\Programm\MikTex 2.9\tex\latex\geometry\geometry.cfg")) (lab8.aux)
-\openout1 = `lab8.aux'.
+("C:\Igor\Programm\MikTex 2.9\tex\latex\geometry\geometry.cfg")) (lab9.aux)
+\openout1 = `lab9.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 ("C:\Igor\Programm\MikTex 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -846,12 +846,12 @@ Package caption Info: End \AtBeginDocument code.
 * \topmargin=-29.59087pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=28.45274pt
-* \marginparwidth=50.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -861,78 +861,180 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 29.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 36.
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 32.
+(Font)              size <20.74> substituted on input line 39.
 
 
 LaTeX Font Warning: Font shape `T2A/cmr/bx/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 32.
+(Font)              size <20.74> substituted on input line 39.
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<1.jpg, id=11, 334.24875pt x 97.36375pt>
-File: 1.jpg Graphic file (type jpg)
- <use 1.jpg>
-Package pdftex.def Info: 1.jpg used on input line 59.
-(pdftex.def)             Requested size: 497.92325pt x 145.05283pt.
- [1 <./1.jpg>]
-<1/1k7.jpg, id=19, 1927.2pt x 935.495pt>
-File: 1/1k7.jpg Graphic file (type jpg)
- <use 1/1k7.jpg>
-Package pdftex.def Info: 1/1k7.jpg used on input line 71.
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1]
+Overfull \hbox (9.98581pt too wide) in paragraph at lines 113--144
+[][] 
+ []
+
+<1/aw.jpg, id=19, 1887.05pt x 857.2025pt>
+File: 1/aw.jpg Graphic file (type jpg)
+ <use 1/aw.jpg>
+Package pdftex.def Info: 1/aw.jpg used on input line 149.
+(pdftex.def)             Requested size: 497.92325pt x 226.17659pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2] <1/fi.jpg, id=26, 1887.05pt x 857.2025pt>
+File: 1/fi.jpg Graphic file (type jpg)
+ <use 1/fi.jpg>
+Package pdftex.def Info: 1/fi.jpg used on input line 156.
+(pdftex.def)             Requested size: 497.92325pt x 226.17659pt.
+
+<1/Llgw.jpg, id=27, 1927.2pt x 935.495pt>
+File: 1/Llgw.jpg Graphic file (type jpg)
+ <use 1/Llgw.jpg>
+Package pdftex.def Info: 1/Llgw.jpg used on input line 163.
 (pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
 
-<1/1k17.jpg, id=20, 1927.2pt x 935.495pt>
-File: 1/1k17.jpg Graphic file (type jpg)
- <use 1/1k17.jpg>
-Package pdftex.def Info: 1/1k17.jpg used on input line 75.
-(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
- [2 <./1/1k7.jpg> <./1/1k17.jpg>] <1/1k11_3.jpg, id=24, 1927.2pt x 935.495pt>
-File: 1/1k11_3.jpg Graphic file (type jpg)
- <use 1/1k11_3.jpg>
-Package pdftex.def Info: 1/1k11_3.jpg used on input line 83.
-(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
 
-[3 <./1/1k11_3.jpg>] <final.jpg, id=28, 1887.05pt x 866.23625pt>
-File: final.jpg Graphic file (type jpg)
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<use final.jpg>
-Package pdftex.def Info: final.jpg used on input line 132.
+[3 <./1/aw.jpg> <./1/fi.jpg>] <1/psi.jpg, id=31, 1927.2pt x 935.495pt>
+File: 1/psi.jpg Graphic file (type jpg)
+
+<use 1/psi.jpg>
+Package pdftex.def Info: 1/psi.jpg used on input line 171.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
+ <1/lachxass.jpg, id=32, 1887.05pt x 866.23625pt>
+File: 1/lachxass.jpg Graphic file (type jpg)
+
+<use 1/lachxass.jpg>
+Package pdftex.def Info: 1/lachxass.jpg used on input line 179.
 (pdftex.def)             Requested size: 497.92325pt x 228.56018pt.
- [4 <./final.jpg>] [5] (lab8.aux)
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./1/Llgw.jpg> <./1/psi.jpg>] <1/afchx.jpg, id=36, 1887.05pt x 866.23625pt>
+File: 1/afchx.jpg Graphic file (type jpg)
+
+<use 1/afchx.jpg>
+Package pdftex.def Info: 1/afchx.jpg used on input line 187.
+(pdftex.def)             Requested size: 497.92325pt x 228.56018pt.
+ [5 <./1/lachxass.jpg> <./1/afchx.jpg>]
+Overfull \hbox (8.02795pt too wide) in paragraph at lines 205--236
+[][] 
+ []
+
+[6] <2/aw2.jpg, id=44, 1927.2pt x 926.46124pt>
+File: 2/aw2.jpg Graphic file (type jpg)
+ <use 2/aw2.jpg>
+Package pdftex.def Info: 2/aw2.jpg used on input line 243.
+(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
+
+<2/fi2.jpg, id=45, 1927.2pt x 926.46124pt>
+File: 2/fi2.jpg Graphic file (type jpg)
+ <use 2/fi2.jpg>
+Package pdftex.def Info: 2/fi2.jpg used on input line 248.
+(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
+ [7 <./2/aw2.jpg> <./2/fi2.jpg>] <2/Llgw2.jpg, id=49, 1927.2pt x 935.495pt>
+File: 2/Llgw2.jpg Graphic file (type jpg)
+ <use 2/Llgw2.jpg>
+Package pdftex.def Info: 2/Llgw2.jpg used on input line 256.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
+
+<2/psi2.jpg, id=50, 1887.05pt x 866.23625pt>
+File: 2/psi2.jpg Graphic file (type jpg)
+ <use 2/psi2.jpg>
+Package pdftex.def Info: 2/psi2.jpg used on input line 261.
+(pdftex.def)             Requested size: 497.92325pt x 228.56018pt.
+ [8 <./2/Llgw2.jpg> <./2/psi2.jpg>] <2/lachxass2.jpg, id=54, 1887.05pt x 866.23
+625pt>
+File: 2/lachxass2.jpg Graphic file (type jpg)
+
+<use 2/lachxass2.jpg>
+Package pdftex.def Info: 2/lachxass2.jpg used on input line 269.
+(pdftex.def)             Requested size: 497.92325pt x 228.56018pt.
+ <2/afchx2.jpg, id=55, 1887.05pt x 866.23625pt>
+File: 2/afchx2.jpg Graphic file (type jpg)
+
+<use 2/afchx2.jpg>
+Package pdftex.def Info: 2/afchx2.jpg used on input line 274.
+(pdftex.def)             Requested size: 497.92325pt x 228.56018pt.
+ [9 <./2/lachxass2.jpg> <./2/afchx2.jpg>]
+Overfull \hbox (4.11224pt too wide) in paragraph at lines 292--323
+[][] 
+ []
+
+[10] <3/aw3.jpg, id=62, 1927.2pt x 926.46124pt>
+File: 3/aw3.jpg Graphic file (type jpg)
+ <use 3/aw3.jpg>
+Package pdftex.def Info: 3/aw3.jpg used on input line 330.
+(pdftex.def)             Requested size: 497.92325pt x 239.36162pt.
+
+<3/fi3.jpg, id=63, 1887.05pt x 857.2025pt>
+File: 3/fi3.jpg Graphic file (type jpg)
+ <use 3/fi3.jpg>
+Package pdftex.def Info: 3/fi3.jpg used on input line 335.
+(pdftex.def)             Requested size: 497.92325pt x 226.17659pt.
+ [11 <./3/aw3.jpg> <./3/fi3.jpg>] <3/Llgw3.jpg, id=67, 1927.2pt x 935.495pt>
+File: 3/Llgw3.jpg Graphic file (type jpg)
+ <use 3/Llgw3.jpg>
+Package pdftex.def Info: 3/Llgw3.jpg used on input line 343.
+(pdftex.def)             Requested size: 497.92325pt x 241.69559pt.
+
+<3/psi3.jpg, id=68, 1887.05pt x 866.23625pt>
+File: 3/psi3.jpg Graphic file (type jpg)
+ <use 3/psi3.jpg>
+Package pdftex.def Info: 3/psi3.jpg used on input line 348.
+(pdftex.def)             Requested size: 497.92325pt x 228.56018pt.
+ [12 <./3/Llgw3.jpg> <./3/psi3.jpg>] <3/lachxass3.jpg, id=73, 1887.05pt x 866.2
+3625pt>
+File: 3/lachxass3.jpg Graphic file (type jpg)
+
+<use 3/lachxass3.jpg>
+Package pdftex.def Info: 3/lachxass3.jpg used on input line 356.
+(pdftex.def)             Requested size: 497.92325pt x 228.56018pt.
+ <3/afchx3.jpg, id=74, 1887.05pt x 866.23625pt>
+File: 3/afchx3.jpg Graphic file (type jpg)
+
+<use 3/afchx3.jpg>
+Package pdftex.def Info: 3/afchx3.jpg used on input line 361.
+(pdftex.def)             Requested size: 497.92325pt x 228.56018pt.
+ [13 <./3/lachxass3.jpg> <./3/afchx3.jpg>] [14] (lab9.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 5402 strings out of 493333
- 73377 string characters out of 3139179
- 149957 words of memory out of 3000000
- 8828 multiletter control sequences out of 15000+200000
- 16738 words of font info for 42 fonts, out of 3000000 for 9000
+ 5484 strings out of 493333
+ 74468 string characters out of 3139179
+ 151116 words of memory out of 3000000
+ 8897 multiletter control sequences out of 15000+200000
+ 16734 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,10n,40p,551b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,40p,816b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
-00\labx1440.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
+00\labx1728.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
 h\lh-t2a\dpi600\larm0800.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\font
-s\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk> <C:\Users\Игорь\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\Игорь\App
-Data\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C:\Users\�
-�горь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk
-> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
-0\labx1200.pk><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmex1
-0.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
-:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Igor/Pr
-ogramm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Igor/Programm/Mi
-kTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Igor/Programm/MikTex 2.9/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on lab8.pdf (6 pages, 528542 bytes).
+s\pk\ljfour\unknown\unknown\dpi600\larm1200.pk> <C:\Users\Игорь\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\Игор
+ь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C:\U
+sers\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0
+700.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a
+\dpi600\labx1200.pk><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm
+/cmex10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmmi12.
+pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/I
+gor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Igor/Progr
+amm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Igor/Programm/MikTex
+ 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Igor/Programm/MikTex 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on lab9.pdf (15 pages, 1482774 bytes).
 PDF statistics:
- 301 PDF objects out of 1000 (max. 8388607)
+ 350 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
