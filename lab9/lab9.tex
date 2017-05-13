@@ -13,12 +13,14 @@
 \righthyphenmin=2
 \usepackage[left=20mm, top=15mm, right=15mm, bottom=15mm, nohead, footskip=10mm]{geometry} % настройки полей документа
 \usepackage{caption}
-
-%%%%%%%%%%%%CAPTION%%%%%%%
-\DeclareCaptionLabelSeparator{dash}{ – }
-\captionsetup{justification=centering,labelsep=dash}
+%%%%%%%TITUL%%%%%%%
 \newcommand\tline[2]{$\underset{\text{#1}}{\text{\underline{\hspace{#2}}}}$}
-\captionsetup[table]{justification=raggedright,singlelinecheck=off}
+%%%%%%%%%%%%CAPTION%%%%%%%
+\usepackage{threeparttable}
+%Change label separator
+\usepackage{caption}
+\captionsetup[table]{labelformat=simple, labelsep = endash, justification = raggedright, singlelinecheck = off}
+\captionsetup[figure]{labelformat=simple, labelsep = endash, name = Рисунок}
 %%%%%%%TABLE%%%%
 \renewcommand{\arraystretch}{1.8}
 \renewcommand{\tabcolsep}{1cm}
@@ -64,7 +66,9 @@
 В таблице 1 и 2 приведены исходные данные динамических звеньев 
 
 \begin{table}[h!]
-	\caption{Исходные данные}
+	\centering
+	\begin{threeparttable}
+	\caption{Динамические звенья}
 	\label{data1}
 	\begin{tabular}{|c|c|}
 		\hline
@@ -77,12 +81,15 @@
 		Изодромное & $\frac{k(1+Ts)}{s}$\\
 		\hline
 	\end{tabular}
+
+\end{threeparttable}
 \end{table}
 
 \begin{table}[h!]
-
+	\centering
+	\begin{threeparttable}	
 	\label{data2}
-	\caption{Параметры}
+	\caption{Исходные данные}
 	\begin{tabular}{|c|c|c|}
 		\hline
 		$k$ & $T$ & $\xi$ \\
@@ -90,7 +97,7 @@
 		2 & 0.5 & 0.15\\
 		\hline
 	\end{tabular}
-
+	\end{threeparttable}
 \end{table}
 		
 \newpage		
@@ -109,11 +116,12 @@
 				\end{cases}
 \end{equation}
 		
-\begin{table}[h]
+\begin{table}[h!]
+	\centering
+	
+	\begin{threeparttable}
 	\caption{Экспериментальные данные колебательного звена}
-	\label{tab:coleb}
-	\begin{center}
-		
+	\label{tab:coleb}	
 	\begin{tabular}{|c|c|c|c|c|}
 		\hline
 		$\omega$, рад/c   & $\lg(\omega)$   & $A(\omega)$ & $L(\omega)$  & $\psi(\omega)$, град   \\
@@ -145,7 +153,7 @@
 		50  & 1,70  & 0,06 & -24,43  & -157  \\
 		\hline
 	\end{tabular}
-\end{center}
+\end{threeparttable}
 \end{table}
 На рисунках \ref{1achh}-\ref{1afchh} представлены частотные и логарифмические характеристики колебательного звена.
 \newpage
@@ -204,6 +212,8 @@
 \end{equation}
 
 \begin{table}[h]
+	\centering
+	\begin{threeparttable}
 	\caption{Экспериментальные данные идеального интегрирующего звена}
 	\label{tab:integr}
 	\begin{tabular}{|c|c|c|c|c|}
@@ -237,6 +247,7 @@
 		50  & 1,70  & 0,08 & -21,93   & -3   \\
 		\hline
 	\end{tabular}
+\end{threeparttable}
 \end{table}
 
 На рисунках \ref{2achh}-\ref{2afchh} представлены частотные и логарифмические характеристики идеального интегрирующего звена.
@@ -291,6 +302,9 @@
 \end{equation}
 
 \begin{table}[h]
+	\centering
+	
+	\begin{threeparttable}
 	\caption{Экспериментальные данные изодромного звена}
 	\label{tab:izodr}
 	\begin{tabular}{|c|c|c|c|c|}
@@ -324,6 +338,7 @@
 		50  & 1,70  & 2,02 & 6,10    & 0     \\
 		\hline
 	\end{tabular}
+\end{threeparttable}
 \end{table}
 
 На рисунках \ref{3achh}-\ref{3afchh} представлены частотные и логарифмические характеристики изодромного звена.
@@ -372,6 +387,7 @@
 \begin{center}
 	\section*{Вывод}
 \end{center}\par
-В данной лабораторной работе были исследованы частотные обычные и логарифмические характеристики трех типовых звеньев: колебательного, идеального интегрирующего и изодромного. В ходе лабораторной работы было выявлено, что асимптотические ЛАЧХ сходятся построенными по математическим моделям графиками.
+В данной лабораторной работе были исследованы частотные обычные и логарифмические характеристики трех типовых звеньев: колебательного, идеального интегрирующего и изодромного. Получили экспериментально графики частотных характеристик и сравнили их с соответствующими выражениями. \par
+В ходе лабораторной работы было выявлено, что асимптотические ЛАЧХ колебательного и изодромного звена имеют частоту среза $\frac{1}{T}$ и соответствующие им наклоны.
 
 \end{document}
