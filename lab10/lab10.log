@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  17 MAY 2017 13:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  18 MAY 2017 14:38
 entering extended mode
 **./lab10.tex
 (lab10.tex
@@ -954,12 +954,12 @@ Package pdftex.def Info: notfullmod.jpg used on input line 361.
 (pdftex.def)             Requested size: 483.69687pt x 182.54356pt.
 
 [11 <./notfullstrEMO.jpg> <./notfullmod.jpg>]
-<data/full_notfull.jpg, id=66, 1205.50375pt x 446.66875pt>
+<data/full_notfull.jpg, id=66, 1205.50375pt x 438.63875pt>
 File: data/full_notfull.jpg Graphic file (type jpg)
 
 <use data/full_notfull.jpg>
 Package pdftex.def Info: data/full_notfull.jpg used on input line 369.
-(pdftex.def)             Requested size: 483.69687pt x 179.21638pt.
+(pdftex.def)             Requested size: 483.69687pt x 175.99452pt.
  [12 <./data/full_notfull.jpg>] [13] (lab10.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -992,7 +992,7 @@ rogramm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Igor/Programm/Mi
 kTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Igor/Programm/MikTex 2.9/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab10.pdf (14 pages, 850903 bytes).
+Output written on lab10.pdf (14 pages, 846384 bytes).
 PDF statistics:
  390 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
