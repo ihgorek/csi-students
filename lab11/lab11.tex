@@ -94,7 +94,7 @@
 	\label{first}
 \end{figure}
 
-Коэффициенты передачи измерительных устройств $K_u^{-1}, K_F, K_V \text{и} K_x$ выбираются таким образом, чтобы обеспечить соответствие максимального значения измеряемого сигнала уровню 10 В на выходе измерительного устройства. В итоге получим следующие значения коэффициентов:
+Коэффициенты передачи измерительных устройств $K_u^{-1}, K_F, K_V $ и $K_x$ выбираются таким образом, чтобы обеспечить соответствие максимального значения измеряемого сигнала уровню 10 В на выходе измерительного устройства. В итоге получим следующие значения коэффициентов:
 
 \begin{gather}
 	K_u = 30\\
@@ -105,6 +105,32 @@
 
 \newpage
 
+\begin{center}
+	\section{Вывод передаточных функций}
+\end{center}
+
+Рассмотрим пьезоэлектрическое устройство как упругую для составления передаточной функции, из уравнения баланса сил в пьезодвигателе:
+\begin{align}
+	m\ddot{x} + K_d\dot{x} + C_px = K_0U_p + F_B
+	\label{diff}
+\end{align}\par
+Из уравнения \ref{diff}, при нулевом внешнем воздействии можно составить передаточную функцию для пьезодвигателя:
+
+\begin{align} 
+	W_{pz}(s) =\frac{K_0}{ms^2 + K_ds + C_p}.
+	\label{Wpz}
+\end{align}\par
+Управление ПД осуществляется с вольтного усилителя, который, в нашем случае, описывается апериодическим звеном первого порядка:
+\begin{align}
+	W_{v}(s) = \frac{K_u}{T_us + 1},
+\end{align}
+\par
+Так как $W_{pz}$ и $W_v$ соединены последовательно, получаем итоговую передаточную функцию:
+\begin{align}
+	W(s) = \frac{K_0\cdot K_u}{(T_us + 1)(ms^2 + K_ds + C_p)}.
+\end{align}
+
+\newpage
 
 \begin{center}
 	\section{Исследование исполнительного устройства}
@@ -132,14 +158,40 @@
 	\section{Исследование влияния массы нагрузки на вид переходных процессов}
 \end{center}\par
 
-На рисунке \ref{m_x} показаны переходные процессы при различных значениях массы нагрузки. В таблице \ref{tab:x_m} приведена зависимость  характеристик системы от массы нагрузки.
+На рисунках \ref{Up_m} - \ref{x_m} показаны переходные процессы при различных значениях массы нагрузки. В таблице \ref{tab:x_m} приведена зависимость  характеристик системы от массы нагрузки.
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width = 0.65\textheight]{data/m_x}
+	\includegraphics[width = 0.6\textheight]{data/Up_m}
 	\caption{Переходные процессы при изменении массы}
-	\label{m_x}
+	\label{Up_m}
 \end{figure}
+
+\newpage
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width = 0.6\textheight]{data/F_m}
+	\caption{Переходные процессы при изменении массы}
+	\label{F_m}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width = 0.6\textheight]{data/V_m}
+	\caption{Переходные процессы при изменении массы}
+	\label{V_m}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width = 0.6\textheight]{data/x_m}
+	\caption{Переходные процессы при изменении массы}
+	\label{x_m}
+\end{figure}
+
 
 \begin{table}[ht!]
 	\centering
@@ -198,13 +250,38 @@
 	\end{threeparttable}
 \end{table}\par
 
-На рисунке \ref{Tu_x} показаны переходные процессы при различных значениях массы нагрузки.
+На рисунках \ref{Up_tu} - \ref{x_tu} показаны переходные процессы при различных значениях массы нагрузки.
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width = 0.65\textheight]{data/Tu_x}
+	\includegraphics[width = 0.6\textheight]{data/Up_tu}
 	\caption{Переходные процессы при изменении постоянной времени}
-	\label{Tu_x}
+	\label{Up_tu}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width = 0.6\textheight]{data/F_tu}
+	\caption{Переходные процессы при изменении постоянной времени}
+	\label{F_tu}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width = 0.6\textheight]{data/V_tu}
+	\caption{Переходные процессы при изменении постоянной времени}
+	\label{V_tu}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width = 0.6\textheight]{data/x_tu}
+	\caption{Переходные процессы при изменении постоянной времени}
+	\label{x_tu}
 \end{figure}
 
 \newpage

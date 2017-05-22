@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  21 MAY 2017 17:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  22 MAY 2017 19:31
 entering extended mode
 **./lab11.tex
 (lab11.tex
@@ -892,68 +892,105 @@ File: first.jpg Graphic file (type jpg)
  <use first.jpg>
 Package pdftex.def Info: first.jpg used on input line 92.
 (pdftex.def)             Requested size: 475.29883pt x 262.93555pt.
- [1 <./first.jpg>] <funkshem.jpg, id=22, 565.11125pt x 284.06125pt>
+ [1 <./first.jpg>] [2] <funkshem.jpg, id=25, 565.11125pt x 284.06125pt>
 File: funkshem.jpg Graphic file (type jpg)
  <use funkshem.jpg>
-Package pdftex.def Info: funkshem.jpg used on input line 117.
+Package pdftex.def Info: funkshem.jpg used on input line 143.
 (pdftex.def)             Requested size: 438.74596pt x 220.54393pt.
 
-<data/begin.jpg, id=23, 1205.50375pt x 844.15375pt>
+<data/begin.jpg, id=26, 1205.50375pt x 844.15375pt>
 File: data/begin.jpg Graphic file (type jpg)
  <use data/begin.jpg>
-Package pdftex.def Info: data/begin.jpg used on input line 124.
+Package pdftex.def Info: data/begin.jpg used on input line 150.
 (pdftex.def)             Requested size: 475.29883pt x 332.82524pt.
 
-[2 <./funkshem.jpg> <./data/begin.jpg>]
-<data/m_x.jpg, id=27, 1205.50375pt x 844.15375pt>
-File: data/m_x.jpg Graphic file (type jpg)
- <use data/m_x.jpg>
-Package pdftex.def Info: data/m_x.jpg used on input line 139.
-(pdftex.def)             Requested size: 475.29883pt x 332.82524pt.
- [3 <./data/m_x.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[3 <./funkshem.jpg> <./data/begin.jpg>]
+<data/Up_m.jpg, id=30, 1205.50375pt x 844.15375pt>
+File: data/Up_m.jpg Graphic file (type jpg)
+ <use data/Up_m.jpg>
+Package pdftex.def Info: data/Up_m.jpg used on input line 165.
+(pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
+ [4 <./data/Up_m.jpg>] <data/F_m.jpg, id=34, 1205.50375pt x 844.15375pt>
+File: data/F_m.jpg Graphic file (type jpg)
+
+<use data/F_m.jpg>
+Package pdftex.def Info: data/F_m.jpg used on input line 174.
+(pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
+ <data/V_m.jpg, id=35, 1205.50375pt x 844.15375pt>
+File: data/V_m.jpg Graphic file (type jpg)
+
+<use data/V_m.jpg>
+Package pdftex.def Info: data/V_m.jpg used on input line 181.
+(pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
+ [5 <./data/F_m.jpg> <./data/V_m.jpg>]
+<data/x_m.jpg, id=39, 1205.50375pt x 832.10875pt>
+File: data/x_m.jpg Graphic file (type jpg)
+ <use data/x_m.jpg>
+Package pdftex.def Info: data/x_m.jpg used on input line 190.
+(pdftex.def)             Requested size: 438.74596pt x 302.84743pt.
+ [6 <./data/x_m.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
 
-Overfull \hbox (10.26553pt too wide) in paragraph at lines 181--199
+Overfull \hbox (10.26553pt too wide) in paragraph at lines 233--251
  [] 
  []
 
-<data/Tu_x.jpg, id=31, 1205.50375pt x 844.15375pt>
-File: data/Tu_x.jpg Graphic file (type jpg)
- <use data/Tu_x.jpg>
-Package pdftex.def Info: data/Tu_x.jpg used on input line 205.
-(pdftex.def)             Requested size: 475.29883pt x 332.82524pt.
- [4 <./data/Tu_x.jpg>] <data/Cp_V.jpg, id=35, 1205.50375pt x 844.15375pt>
+<data/Up_tu.jpg, id=44, 1205.50375pt x 844.15375pt>
+File: data/Up_tu.jpg Graphic file (type jpg)
+ <use data/Up_tu.jpg>
+Package pdftex.def Info: data/Up_tu.jpg used on input line 257.
+(pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
+
+[7 <./data/Up_tu.jpg>] <data/F_tu.jpg, id=48, 1205.50375pt x 844.15375pt>
+File: data/F_tu.jpg Graphic file (type jpg)
+
+<use data/F_tu.jpg>
+Package pdftex.def Info: data/F_tu.jpg used on input line 266.
+(pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
+ <data/V_tu.jpg, id=49, 1205.50375pt x 844.15375pt>
+File: data/V_tu.jpg Graphic file (type jpg)
+
+<use data/V_tu.jpg>
+Package pdftex.def Info: data/V_tu.jpg used on input line 273.
+(pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
+ [8 <./data/F_tu.jpg> <./data/V_tu.jpg>]
+<data/x_tu.jpg, id=53, 1205.50375pt x 844.15375pt>
+File: data/x_tu.jpg Graphic file (type jpg)
+ <use data/x_tu.jpg>
+Package pdftex.def Info: data/x_tu.jpg used on input line 282.
+(pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
+ [9 <./data/x_tu.jpg>] <data/Cp_V.jpg, id=57, 1245.65375pt x 832.10875pt>
 File: data/Cp_V.jpg Graphic file (type jpg)
 
 <use data/Cp_V.jpg>
-Package pdftex.def Info: data/Cp_V.jpg used on input line 220.
-(pdftex.def)             Requested size: 475.29883pt x 332.82524pt.
- [5 <./data/Cp_V.jpg>]
-<data/Cp_x.jpg, id=39, 1205.50375pt x 844.15375pt>
+Package pdftex.def Info: data/Cp_V.jpg used on input line 297.
+(pdftex.def)             Requested size: 475.29883pt x 317.4997pt.
+ [10 <./data/Cp_V.jpg>]
+<data/Cp_x.jpg, id=61, 1245.65375pt x 832.10875pt>
 File: data/Cp_x.jpg Graphic file (type jpg)
  <use data/Cp_x.jpg>
-Package pdftex.def Info: data/Cp_x.jpg used on input line 229.
-(pdftex.def)             Requested size: 475.29883pt x 332.82524pt.
- [6 <./data/Cp_x.jpg>] <data/lachx.jpg, id=44, 602.75188pt x 422.07687pt>
+Package pdftex.def Info: data/Cp_x.jpg used on input line 306.
+(pdftex.def)             Requested size: 475.29883pt x 317.4997pt.
+ [11 <./data/Cp_x.jpg>] <data/lachx.jpg, id=65, 622.82687pt x 280.54813pt>
 File: data/lachx.jpg Graphic file (type jpg)
 
 <use data/lachx.jpg>
-Package pdftex.def Info: data/lachx.jpg used on input line 250.
-(pdftex.def)             Requested size: 475.29883pt x 332.82524pt.
- [7 <./data/lachx.jpg>] [8] (lab11.aux)
+Package pdftex.def Info: data/lachx.jpg used on input line 327.
+(pdftex.def)             Requested size: 475.29883pt x 214.09634pt.
+ [12 <./data/lachx.jpg>] [13] (lab11.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 5628 strings out of 493333
- 76325 string characters out of 3139179
- 154074 words of memory out of 3000000
- 9042 multiletter control sequences out of 15000+200000
+ 5666 strings out of 493333
+ 76840 string characters out of 3139179
+ 154146 words of memory out of 3000000
+ 9074 multiletter control sequences out of 15000+200000
  16734 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,17n,40p,963b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -971,9 +1008,9 @@ fb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Ig
 or/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Igor/Program
 m/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Programm/MikTex
  2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab11.pdf (9 pages, 722319 bytes).
+Output written on lab11.pdf (14 pages, 1084991 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
+ 362 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
