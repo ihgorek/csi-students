@@ -10,6 +10,7 @@
 \usepackage{tabularx}
 \usepackage{amsmath,booktabs}
 \usepackage{array}
+\usepackage{pscyr}
 \righthyphenmin=2
 \usepackage[left=20mm, top=20mm, right=20mm, bottom=20mm]{geometry} % настройки полей документа
 \usepackage{caption}
@@ -318,6 +319,14 @@
 
 \begin{align}
 	W(s) = \frac{\displaystyle{\frac{K_0}{C_p}}}{\displaystyle{\frac{m}{C_p}}s^2 + \frac{K_d}{C_p}s + 1}.
+\end{align}\par
+Асимптотическая логарифмическая амплитудная характеристика будет иметь нулевой наклон на уровне
+\begin{align}
+	20\log_{10} \frac{K_0}{C_p} = 20\log_{10} \frac{8,2}{0,5\cdot10^8} = -135,7
+\end{align}\par
+до сопрягающей частоты 
+\begin{align}
+	\omega_c = \sqrt{\frac{C_p}{m}} = \sqrt{\frac{0,5\cdot10^8}{0,3}} = 1,29\cdot10^4 \text{рад/с}.
 \end{align}
 
 На рисунке \ref{lachx} видно где асимптотическая ЛАЧХ имеет нулевой наклон и после какой частоты ее наклон составляет -40 дБ/дек.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  22 MAY 2017 19:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  23 MAY 2017 13:33
 entering extended mode
 **./lab11.tex
 (lab11.tex
@@ -724,6 +724,9 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count109
 \@thisrulewidth=\dimen141
 )
+("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\pscyr.sty"
+Package: pscyr 2002/07/04 v0.4d Cyrillic Type1 fonts as default
+)
 ("C:\Igor\Programm\MikTex 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -767,21 +770,25 @@ Package: threeparttable 2003/06/13  v 3.0
 (lab11.aux)
 \openout1 = `lab11.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
- ("C:\Igor\Programm\MikTex 2.9\tex\context\base\supp-pdf.mkii"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for T2A+faq on input line 37.
+ ("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\t2afaq.fd"
+File: t2afaq.fd 2004/09/23 Fontinst v1.914 font definitions for T2A/faq.
+)
+("C:\Igor\Programm\MikTex 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count114
 \scratchdimen=\dimen151
@@ -875,142 +882,130 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 45.
-
-LaTeX Font Warning: Font shape `T2A/cmr/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 48.
-
-
-LaTeX Font Warning: Font shape `T2A/cmr/bx/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 48.
-
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 46.
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<first.jpg, id=11, 353.82187pt x 195.73125pt>
+{C:/Users/Игорь/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<first.jpg, id=7, 353.82187pt x 195.73125pt>
 File: first.jpg Graphic file (type jpg)
  <use first.jpg>
-Package pdftex.def Info: first.jpg used on input line 92.
+Package pdftex.def Info: first.jpg used on input line 93.
 (pdftex.def)             Requested size: 475.29883pt x 262.93555pt.
- [1 <./first.jpg>] [2] <funkshem.jpg, id=25, 565.11125pt x 284.06125pt>
+ [1 <./first.jpg>]
+[2] <funkshem.jpg, id=20, 565.11125pt x 284.06125pt>
 File: funkshem.jpg Graphic file (type jpg)
  <use funkshem.jpg>
-Package pdftex.def Info: funkshem.jpg used on input line 143.
+Package pdftex.def Info: funkshem.jpg used on input line 144.
 (pdftex.def)             Requested size: 438.74596pt x 220.54393pt.
 
-<data/begin.jpg, id=26, 1205.50375pt x 844.15375pt>
+<data/begin.jpg, id=21, 1205.50375pt x 844.15375pt>
 File: data/begin.jpg Graphic file (type jpg)
  <use data/begin.jpg>
-Package pdftex.def Info: data/begin.jpg used on input line 150.
+Package pdftex.def Info: data/begin.jpg used on input line 151.
 (pdftex.def)             Requested size: 475.29883pt x 332.82524pt.
 
 [3 <./funkshem.jpg> <./data/begin.jpg>]
-<data/Up_m.jpg, id=30, 1205.50375pt x 844.15375pt>
+<data/Up_m.jpg, id=25, 1205.50375pt x 844.15375pt>
 File: data/Up_m.jpg Graphic file (type jpg)
  <use data/Up_m.jpg>
-Package pdftex.def Info: data/Up_m.jpg used on input line 165.
+Package pdftex.def Info: data/Up_m.jpg used on input line 166.
 (pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
- [4 <./data/Up_m.jpg>] <data/F_m.jpg, id=34, 1205.50375pt x 844.15375pt>
+ [4 <./data/Up_m.jpg>] <data/F_m.jpg, id=29, 1205.50375pt x 844.15375pt>
 File: data/F_m.jpg Graphic file (type jpg)
 
 <use data/F_m.jpg>
-Package pdftex.def Info: data/F_m.jpg used on input line 174.
+Package pdftex.def Info: data/F_m.jpg used on input line 175.
 (pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
- <data/V_m.jpg, id=35, 1205.50375pt x 844.15375pt>
+ <data/V_m.jpg, id=30, 1245.65375pt x 840.13875pt>
 File: data/V_m.jpg Graphic file (type jpg)
 
 <use data/V_m.jpg>
-Package pdftex.def Info: data/V_m.jpg used on input line 181.
-(pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
+Package pdftex.def Info: data/V_m.jpg used on input line 182.
+(pdftex.def)             Requested size: 438.74596pt x 295.91179pt.
  [5 <./data/F_m.jpg> <./data/V_m.jpg>]
-<data/x_m.jpg, id=39, 1205.50375pt x 832.10875pt>
+<data/x_m.jpg, id=34, 1245.65375pt x 840.13875pt>
 File: data/x_m.jpg Graphic file (type jpg)
  <use data/x_m.jpg>
-Package pdftex.def Info: data/x_m.jpg used on input line 190.
-(pdftex.def)             Requested size: 438.74596pt x 302.84743pt.
+Package pdftex.def Info: data/x_m.jpg used on input line 191.
+(pdftex.def)             Requested size: 438.74596pt x 295.91179pt.
  [6 <./data/x_m.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
 
-Overfull \hbox (10.26553pt too wide) in paragraph at lines 233--251
+Overfull \hbox (23.41301pt too wide) in paragraph at lines 234--252
  [] 
  []
 
-<data/Up_tu.jpg, id=44, 1205.50375pt x 844.15375pt>
+<data/Up_tu.jpg, id=39, 1205.50375pt x 844.15375pt>
 File: data/Up_tu.jpg Graphic file (type jpg)
  <use data/Up_tu.jpg>
-Package pdftex.def Info: data/Up_tu.jpg used on input line 257.
+Package pdftex.def Info: data/Up_tu.jpg used on input line 258.
 (pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
 
-[7 <./data/Up_tu.jpg>] <data/F_tu.jpg, id=48, 1205.50375pt x 844.15375pt>
+[7 <./data/Up_tu.jpg>] <data/F_tu.jpg, id=43, 1205.50375pt x 844.15375pt>
 File: data/F_tu.jpg Graphic file (type jpg)
 
 <use data/F_tu.jpg>
-Package pdftex.def Info: data/F_tu.jpg used on input line 266.
+Package pdftex.def Info: data/F_tu.jpg used on input line 267.
 (pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
- <data/V_tu.jpg, id=49, 1205.50375pt x 844.15375pt>
+ <data/V_tu.jpg, id=44, 1245.65375pt x 840.13875pt>
 File: data/V_tu.jpg Graphic file (type jpg)
 
 <use data/V_tu.jpg>
-Package pdftex.def Info: data/V_tu.jpg used on input line 273.
-(pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
+Package pdftex.def Info: data/V_tu.jpg used on input line 274.
+(pdftex.def)             Requested size: 438.74596pt x 295.91179pt.
  [8 <./data/F_tu.jpg> <./data/V_tu.jpg>]
-<data/x_tu.jpg, id=53, 1205.50375pt x 844.15375pt>
+<data/x_tu.jpg, id=48, 1245.65375pt x 840.13875pt>
 File: data/x_tu.jpg Graphic file (type jpg)
  <use data/x_tu.jpg>
-Package pdftex.def Info: data/x_tu.jpg used on input line 282.
-(pdftex.def)             Requested size: 438.74596pt x 307.23123pt.
- [9 <./data/x_tu.jpg>] <data/Cp_V.jpg, id=57, 1245.65375pt x 832.10875pt>
+Package pdftex.def Info: data/x_tu.jpg used on input line 283.
+(pdftex.def)             Requested size: 438.74596pt x 295.91179pt.
+ [9 <./data/x_tu.jpg>] <data/Cp_V.jpg, id=52, 1245.65375pt x 862.22125pt>
 File: data/Cp_V.jpg Graphic file (type jpg)
 
 <use data/Cp_V.jpg>
-Package pdftex.def Info: data/Cp_V.jpg used on input line 297.
-(pdftex.def)             Requested size: 475.29883pt x 317.4997pt.
+Package pdftex.def Info: data/Cp_V.jpg used on input line 298.
+(pdftex.def)             Requested size: 475.29883pt x 328.98943pt.
  [10 <./data/Cp_V.jpg>]
-<data/Cp_x.jpg, id=61, 1245.65375pt x 832.10875pt>
+<data/Cp_x.jpg, id=56, 1245.65375pt x 862.22125pt>
 File: data/Cp_x.jpg Graphic file (type jpg)
  <use data/Cp_x.jpg>
-Package pdftex.def Info: data/Cp_x.jpg used on input line 306.
-(pdftex.def)             Requested size: 475.29883pt x 317.4997pt.
- [11 <./data/Cp_x.jpg>] <data/lachx.jpg, id=65, 622.82687pt x 280.54813pt>
+Package pdftex.def Info: data/Cp_x.jpg used on input line 307.
+(pdftex.def)             Requested size: 475.29883pt x 328.98943pt.
+ [11 <./data/Cp_x.jpg>] <data/lachx.jpg, id=60, 622.82687pt x 280.54813pt>
 File: data/lachx.jpg Graphic file (type jpg)
 
 <use data/lachx.jpg>
-Package pdftex.def Info: data/lachx.jpg used on input line 327.
+Package pdftex.def Info: data/lachx.jpg used on input line 336.
 (pdftex.def)             Requested size: 475.29883pt x 214.09634pt.
- [12 <./data/lachx.jpg>] [13] (lab11.aux)
+ [12 <./data/lachx.jpg>] [13] (lab11.aux
+LaTeX Font Info:    Try loading font information for OT1+faq on input line 3.
 
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.74pt have occurred.
-
- ) 
+("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\ot1faq.fd"
+File: ot1faq.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/faq.
+)) ) 
 Here is how much of TeX's memory you used:
- 5666 strings out of 493333
- 76840 string characters out of 3139179
- 154146 words of memory out of 3000000
- 9074 multiletter control sequences out of 15000+200000
- 16734 words of font info for 42 fonts, out of 3000000 for 9000
+ 5806 strings out of 493333
+ 78382 string characters out of 3139179
+ 156097 words of memory out of 3000000
+ 9210 multiletter control sequences out of 15000+200000
+ 26360 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,17n,40p,963b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
-00\labx1728.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
-h\lh-t2a\dpi600\larm0800.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\font
-s\pk\ljfour\unknown\unknown\dpi600\larm1200.pk> <C:\Users\Игорь\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\Игор
-ь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C:\U
-sers\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0
-700.pk> <C:\Users\Игорь\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a
-\dpi600\labx1200.pk><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm
-/cmmi12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmmi8.p
-fb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Ig
-or/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Igor/Program
-m/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Programm/MikTex
- 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab11.pdf (14 pages, 1084991 bytes).
+{C:/Igor/Programm/MikTex 2.9/fonts/enc/t2/t2a.enc}<C:/Igor/Programm/MikTex 
+2.9/fonts/type1/public/pscyr/antiq6.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type
+1/public/pscyr/antiq7.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/c
+mmi12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Igor
+/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Igor/Programm/
+MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Programm/MikTex 2
+.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on lab11.pdf (14 pages, 1056239 bytes).
 PDF statistics:
- 362 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
