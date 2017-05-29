@@ -14,6 +14,7 @@
 \usepackage{multirow}
 \usepackage{ulem}
 \usepackage{indentfirst}
+\usepackage{threeparttable}
 \usepackage{cmap}%позволяет копировать кириллицу из скомпилированного файла
 
 \usepackage{enumitem}
@@ -47,14 +48,14 @@
 \titleDegree{бакалавр техники и технологии}
 \titleСhief{Специализация}
 \titleSubDepartment{КСУИ}
-\gostklgi{КСУИ.112.P3440.001 ПЗ}
-\gostrazrabotchik{Клюнин А.О.} % студента
-\gostproveril{Пыркин А.А.} % проверяющего
+\gostklgi{КСУИ.118.P3340.001 ПЗ}
+\gostrazrabotchik{Уткин И.И.} % студента
+\gostproveril{Григорьев В.А.} % проверяющего
 \gostnormokontroler{Николаев Н.А}
 \gostutverdil{Бобцов А.А}
-\gosttitledocument{Управление манипуляционным роботом с заданными силами взаимодействия\\Пояснительная записка}
-\gosttitlecompany{Университет ИТМО\\Кафедра СУИ}
-\gostlitera{д} % буква в таблице, ставится только в дипломной работе, в УИРС не надо
+\gosttitledocument{Синтез последовательного регулятора для замкнутой следящей системы методом желаемой ЛАЧХ}
+\gosttitlecompany{Университет ИТМО\\Кафедра СУиИ}
+\gostlitera{ } % буква в таблице, ставится только в дипломной работе, в УИРС не надо
 \date{}
 
 \usepackage{titlesec}
@@ -74,15 +75,15 @@
 	\tableofcontents
 	% Примеры разделов ПЗ
 	\include{introduction} % подцепляет файл intoduction.tex
-	\include{overview}
 	\include{workDefinition}
 	\include{po}
 	\include{control}
+	\include{model}
 	\include{exp}
 	% \include{definition} и т.д создаете столько файлов и разделов, сколько нужно
-	\include{main}
+%	\include{main}
 	% \include{tests}
 	\include{conclusion} 
 	\include{bibliography}
-	\include{appends}
+%	\include{appends}
 \end{document}

@@ -1,109 +1,66 @@
-\section{Экспериментальные исследования}
-	Для проверки математических расчётов было организовано 2 эксперимента: управление по моментам и управление по силам.	
-	\subsection{Управление по силам}
-		 На Рисунках 10-15 показаны графики, иллюстрирующие реализованное управление в режиме "force feedback position"
-	
-		\begin{figure}[!h]
-			\centering		 
-			\includegraphics[width=2in]{./graph/posX.jpg}	
-			\caption{
-				\textbf{X - канал: положения}
-			}     
-			\label{fig_img41}
-		\end{figure}
-		\begin{figure}[!h]
-			\centering		 
-			\includegraphics[width=2in]{./graph/powX.jpg}	
-			\caption{
-				\textbf{X - канал: силы}
-			}
-			\label{fig_img42}
-		\end{figure}
-		\begin{figure}[!h]
-			\centering		 
-			\includegraphics[width=2in]{./graph/posY.jpg}	
-			\caption{
-				\textbf{Y - канал: положения}
-			}
-			\label{fig_img43}
-		\end{figure}
-		\begin{figure}[!h]
-			\centering		 
-			\includegraphics[width=2in]{./graph/powY.jpg}	
-			\caption{
-				\textbf{Y - канал: силы}
-			}
-			\label{fig_img44}
-		\end{figure}		
-		\begin{figure}[!h]
-			\centering		 
-			\includegraphics[width=2in]{./graph/posZ.jpg}	
-			\caption{
-				\textbf{Z - канал: положения}
-			}
-			\label{fig_img45}
-		\end{figure}
-		\begin{figure}[!h]
-			\centering		 
-			\includegraphics[width=4cm]{./graph/powZ.jpg}	
-			\caption{
-				\textbf{Z - канал: силы}
-			}
-			\label{fig_img46}
-		\end{figure}
-		
-	\subsection{Управление по моментам}
-			На Рисунках 16-21 показаны графики, иллюстрирующие реализованное управление в режиме "force feedback orientation"
-					
-			\begin{figure}[h!]
-				\centering		 
-				\includegraphics[width=2in]{./graph/j4.jpg}	
-				\caption{
-					\textbf{канал четвёртого джоинта: угол}
-				}     
-				\label{fig_img151}
-			\end{figure}
-			\begin{figure}[h!]
-				\centering		 
-				\includegraphics[width=2in]{./graph/m4.jpg}	
-				\caption{
-					\textbf{канал четвёртого джоинта: момент}
-				}
-				\label{fig_img54}
-			\end{figure}
-			\begin{figure}[h!]
-				\centering		 
-				\includegraphics[width=2in]{./graph/j5.jpg}	
-				\caption{
-					\textbf{канал пятого джоинта: угол}
-				}
-				\label{fig_img52}
-			\end{figure}
-			\begin{figure}[h!]
-				\centering		 
-				\includegraphics[width=2in]{./graph/m5.jpg}	
-				\caption{
-					\textbf{канал пятого джоинта: момент}
-				}
-				\label{fig_img55}
-			\end{figure}
-			\begin{figure}[h!]
-				\centering		 
-				\includegraphics[width=2in]{./graph/j6.jpg}	
-				\caption{
-					\textbf{канал шестого джоинта: угол}
-				}
-				\label{fig_img53}
-			\end{figure}					
-			\begin{figure}[h!]
-				\centering		 
-				\includegraphics[width=2in]{./graph/m6.jpg}	
-				\caption{
-					\textbf{канал шестого джоинта: момент}
-				}
-				\label{fig_img56}
-			\end{figure}
-					
-		\subsection{Результаты экспериментов}
-		Из графиков наглядно видно, что система имеет серьёзное запаздывание, что вызвано <<шаговостью>> робота-манипулятора. 
-		Тем не менее система корректно отрабатывает задание, следовательно, поставленная задача выполнена.	
+\section{Реализация регулятора}
+Для реализации регулятора, необходимо представить передаточную функцию:
+\begin{align}
+W_p(s) = \frac{(K_v+\sqrt{2})(T_3s + 1)}{s(T_4s + 1)^2(T_ks + 1)}.
+\end{align}
+
+В виде произведения типовых динамических звеньев:
+\begin{align}
+W_p(s) = \frac{T_3s + 1}{T_0s}\cdot\frac{K_v+\sqrt{2}}{T_ks + 1}\cdot\frac{1}{T_4s + 1}\cdot\frac{1}{T_4s + 1}.
+\end{align}
+
+Тогда электрическая схема регулятора принет вид, представленный на рисунке \ref{elchem}.
+\begin{figure}[ht!]
+	\centering
+	\includegraphics[width = 0.9\textwidth]{elchem}
+	\caption{Электрическая схема реализации регулятора}
+	\label{elchem}
+\end{figure}
+
+На представленной схеме выполняются равенства
+\begin{align}
+\begin{cases}
+R_5 = R_7\\
+R_6 = R_8\\
+C_3 = C_4
+\end{cases}
+\end{align}
+
+Рассчитаем значения элементов схемы.
+\begin{align}
+\begin{cases}
+	\begin{cases}
+		T_0 = R_1C_1 = 1\\
+		T_2 = R_2C_1 = 0.5717
+	\end{cases}\\
+	\begin{cases}
+		T_k = \frac{R_4}{C_2} = 4.4\\
+		K_v+\sqrt{2} = \frac{R_4}{R_3} = 39.3452\\
+	\end{cases}\\
+	\begin{cases}
+		\frac{R_6}{R_5} = 1\\
+		T_4 = \frac{R_6}{C_3} = 0.1233\\
+	\end{cases}
+\end{cases}
+\end{align}
+
+При решении системы получаем следующие параметры:
+\begin{gather}
+\begin{cases}
+	\begin{cases}
+		R_2 = 1 \text{ Ом}\\
+		C_1 = 0.5717 \text{ Ф}\\
+		R_1 = 1.7491 \text{ Ом}
+	\end{cases}\\
+	\begin{cases}
+		R_3 = 0.5 \text{ Ом}\\
+		R_4 = 19.6726 \text{ Ом}\\
+		C_2 = 4.4710 \text{ Ф}\\
+	\end{cases}
+	\begin{cases}
+		R_5 = R_6 = R_7 = R_8 = 1.254 \text{ Ом}\\
+		C_3 = C_4 = 10.1703 \text{ Ф}\\
+	\end{cases}
+\end{cases}
+\end{gather}
+
