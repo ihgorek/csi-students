@@ -1,0 +1,82 @@
+\documentclass[fleqn, a4paper, 12pt, russian]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1, T2A]{fontenc}
+\usepackage[english, main = russian]{babel}
+\usepackage[style=russian]{csquotes}
+\usepackage{pscyr}
+\usepackage[top=2cm, left=2cm, right=2cm, left=2cm]{geometry}
+\usepackage{amsmath} %Для работы с матрицами
+
+\newcommand\tline[2]{$\underset{\text{#1}}{\text{\underline{\hspace{#2}}}}$}
+\newcommand\nameLine[3]{$\underset{\text{#1}}{\text{\underline{\text{#2}\hspace{#3}}}}$}
+\pagestyle{empty}
+
+\begin{document}
+	\centering
+	{\fontsize{14pt}{5cm}\selectfont \bfseries Министерство образования и науки Российской Федерации} \\ \vspace{0.5cm}
+	{\fontsize{6.8pt}{5cm}\selectfont ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ} \\ 
+	\vspace{0.5cm}
+	{\fontsize{13pt}{5cm}\selectfont \bfseries “САНКТ-ПЕТЕРБУРГСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ УНИВЕРСИТЕТ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ,} \\ \vspace{0.1cm}
+	{\fontsize{13pt}{5cm}\selectfont \bfseries МЕХАНИКИ И ОПТИКИ”} \\ \vspace{1cm}
+	
+	\flushleft
+	{\fontsize{12pt}{0cm}\selectfont {\bfseries КАФЕДРА \underline{\hspace{0.25cm}\textit{Систем Управления и Информатики}\hspace{0.25cm}}} \hspace{1.6cm}УТВЕРЖДАЮ} \\ \vspace{0.1cm}
+	{\fontsize{12pt}{0cm}\selectfont \hspace{10.5cm}Зав. кафедрой\hspace{0.6cm}Бобцов А.А.} \\ \vspace{1cm}
+	
+	\centering
+	{\fontsize{18pt}{0cm}\selectfont \bfseries З А Д А Н И Е\hspace{0.2cm}№ 18}\\ \vspace{0.2cm}
+	{\fontsize{16pt}{0cm}\selectfont \bfseries на курсовую работу по дисциплине}	\\ \vspace{0.2cm}
+	{\fontsize{16pt}{0cm}\selectfont \bfseries \enquote{Теория автоматического управления}} \\ \vspace{1cm}
+	
+	\flushleft
+	{\fontsize{14pt}{0cm}\selectfont \textit{Студенту} \bfseries\hspace{1cm}\underline{\hspace{0.25cm}Уткину Игорю\hspace{9.20cm}}} \\ \vspace{0.5cm}
+	{\fontsize{14pt}{0cm}\selectfont \bfseries \underline{РУКОВОДИТЕЛЬ \hspace{3.17cm} Григорьев Валерий Владимирович\hspace{1cm}}}\\ \vspace{0.3cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.3cm}
+	{\fontsize{14pt}{0cm}\selectfont 1\hspace{0.5cm}Тема проекта \hspace{1cm}\bfseries Синтез регулятора методом построения\\ \underline{\hspace{4.8cm}желаемой ЛАЧХ\hspace{8.25cm}}} \\ \vspace{0.3cm}
+	%%
+	{\fontsize{14pt}{0cm}\selectfont 2\hspace{0.5cm}Техническое задание: спроектировать регулятор, включённый последовательно с неизменяемой частью системы. Исходные данные\\ \underline{для проектирования:\hspace{12.4cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{Вид неизменяемой части системы \hspace{3cm}$W(s) = \displaystyle{\frac{K}{(T_1s + 1)(T_2s + 1)s}}$\hspace{0.2cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{Коэффициент передачи неизменяемой части\hspace{5.8cm}195\hspace{0.7cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{Постоянная времени $T_1$\hspace{9.8cm}0.018 c\hspace{0.4cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{Постоянная времени $T_2$\hspace{10.1cm}0.18 c\hspace{0.4cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{Показатель колебательности $M$\hspace{8.4cm}1.55\hspace{0.6cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{Максимально-допустимое значение скорости $\dot{g}_{max}$\hspace{4.15cm}1.1 1/c\hspace{0.3cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{Максимально-допустимое значение ускорения $\ddot{g}_{max}$\hspace{3.6cm}0.25 1/$c^2$\hspace{0.2cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{Максимально-допустимое значение установившейся ошибки $e_{max}$\hspace{1cm}0.029\hspace{0.4cm}}} \\ \vspace{0.2cm}
+	%%
+	\newpage
+	{\fontsize{14pt}{0cm}\selectfont \underline{3\hspace{0.5cm}Содержание пояснительной записки (перечень, подлежащих разработке\hspace{0.2cm}}\\\underline{\hspace{0.8cm}вопросов)\hspace{14cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{\hspace{1.8cm}Введение\hspace{13.15cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{\hspace{0.8cm}3.1\hspace{0.36cm}Анализ устойчивости неизменяемой части системы \hspace{3.65cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{\hspace{0.8cm}3.2\hspace{0.36cm}Синтез регулятора\hspace{11.07cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{\hspace{0.8cm}3.3\hspace{0.36cm}Проверочный расчёт\hspace{10.65cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{\hspace{0.8cm}3.4\hspace{0.36cm}Реализация регулятора\hspace{10.07cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{\hspace{1.8cm}Заключение \hspace{12.38cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \underline{\hspace{1.8cm}Список использованных источников \hspace{7.05cm}}} \\ \vspace{0.2cm}
+	%%
+	{\fontsize{14pt}{0cm}\selectfont \underline{4\hspace{0.5cm}Исходные материалы и пособия к проекту \hspace{6.7cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \hspace{0.8cm}4.1\hspace{0.36cm}Учебное пособие. Теория автоматического управления --- Изд. 4,\\ \underline{\hspace{1.8cm}СПб \enquote{Профессия}, 2003 г. \hspace{9.2cm}}} \\ \vspace{0.2cm}
+	{\fontsize{14pt}{0cm}\selectfont \hspace{0.8cm}4.2\hspace{0.36cm}Учебное пособие. Правила оформления пояснительной записки и\\ \underline{\hspace{1.8cm}конструкторской документации, Университет ИТМО, 2014 г. \hspace{1.5cm}}} \\ \vspace{0.2cm}
+	%%
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	\underline{\hspace{\textwidth}} \\ \vspace{0.2cm}
+	%%
+	\vspace{2cm}
+	{\fontsize{14pt}{0cm}\selectfont
+		{5 \hspace{0.5cm}Дата выдачи задания \hspace{1.5cm} \underline{\hspace{9.5cm}}} \\ \vspace{0.2cm}
+		{\hspace{4.2cm}Руководитель\hspace{0.25cm}\underline{\hspace{9.5cm}}} \\ \vspace{0.2cm}
+		{\hspace{0.25cm}Задание принято к исполнению\hspace{0.25cm}\underline{\hspace{9.5cm}}} \\ \vspace{0.2cm}
+		{\hspace{3.3cm}Подпись студента\hspace{0.25cm}\underline{\hspace{9.5cm}}}
+	}
+\end{document}
