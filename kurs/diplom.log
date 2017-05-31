@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  30 MAY 2017 00:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  1 JUN 2017 00:59
 entering extended mode
 **./diplom.tex
 (diplom.tex
@@ -576,6 +576,11 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidth=\dimen163
 \titlewidthlast=\dimen164
 \titlewidthfirst=\dimen165
+) ("C:\Igor\Programm\MikTex 2.9\tex\latex\titlesec\block.tss"
+File: block.tss 2016/03/15
+)
+("C:\Igor\Programm\MikTex 2.9\tex\latex\titlesec\ttlkeys.def"
+File: ttlkeys.def 2016/03/15
 )
 
 LaTeX Warning: Unused global option(s):
@@ -585,35 +590,33 @@ LaTeX Warning: Unused global option(s):
 (model.aux) (exp.aux) (conclusion.aux) (bibliography.aux))
 \openout1 = `diplom.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 72.
 
 ("C:\Igor\Programm\MikTex 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Try loading font information for T2A+ptm on input line 65.
-LaTeX Font Info:    No file T2Aptm.fd. on input line 65.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 72.
 
-
-LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 65.
-
-<<t2a.cmap>> ("C:\Igor\Programm\MikTex 2.9\tex\context\base\supp-pdf.mkii"
+("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\t2aftm.fd"
+File: t2aftm.fd 2001/12/09 Fontinst v1.914 font definitions for T2A/ftm.
+)<<t2a.cmap>>
+("C:\Igor\Programm\MikTex 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count155
 \scratchdimen=\dimen166
@@ -714,16 +717,12 @@ Package caption Info: End \AtBeginDocument code.
 ABD: EveryShipout initializing macros
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 65.
+(lastpage)             ! on input line 72.
+ (diplom.toc
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
 
-
-LaTeX Font Warning: Font shape `T2A/ptm/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 75.
-
-(diplom.toc
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 1.
- ("C:\Igor\Programm\MikTex 2.9\tex\latex\psnfss\ot1ptm.fd"
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+("C:\Igor\Programm\MikTex 2.9\tex\latex\pscyr\ot1ftm.fd"
+File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
 )<<ot1.cmap>>
 LaTeX Font Info:    Calculating math sizes for size <14> on input line 2.
 <<oml.cmap>><<oms.cmap>><<omx.cmap>>
@@ -741,11 +740,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `diplom.toc'.
 
 
-
-LaTeX Font Warning: Font shape `T2A/ptm/m/sl' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 75.
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 [] 
  []
@@ -754,7 +748,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 File: images/frames/itmo_frame_1_2.pdf Graphic file (type pdf)
 
 <use images/frames/itmo_frame_1_2.pdf>
-Package pdftex.def Info: images/frames/itmo_frame_1_2.pdf used on input line 75
+Package pdftex.def Info: images/frames/itmo_frame_1_2.pdf used on input line 82
 .
 (pdftex.def)             Requested size: 598.23354pt x 845.55696pt.
 
@@ -780,11 +774,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [] 
  []
 
-<images/frames/Doc2.pdf, id=21, 597.55246pt x 845.07718pt>
+<images/frames/Doc2.pdf, id=20, 597.55246pt x 845.07718pt>
 File: images/frames/Doc2.pdf Graphic file (type pdf)
 
 <use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 77.
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 84.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -809,7 +803,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 File: images/frames/Doc2.pdf Graphic file (type pdf)
 <use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 78.
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 85.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -823,13 +817,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \openout2 = `po.aux'.
 
  (po.tex
-<images/Wnch.jpg, id=85, 308.15125pt x 119.94812pt>
+<images/Wnch.jpg, id=84, 308.15125pt x 119.94812pt>
 File: images/Wnch.jpg Graphic file (type jpg)
  <use images/Wnch.jpg>
 Package pdftex.def Info: images/Wnch.jpg used on input line 11.
 (pdftex.def)             Requested size: 386.96024pt x 150.63576pt.
 
-<images/W_nch.jpg, id=86, 1245.65375pt x 563.10374pt>
+<images/W_nch.jpg, id=85, 1245.65375pt x 563.10374pt>
 File: images/W_nch.jpg Graphic file (type jpg)
  <use images/W_nch.jpg>
 Package pdftex.def Info: images/W_nch.jpg used on input line 19.
@@ -855,8 +849,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \openout2 = `control.aux'.
 
  (control.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
- |[]\T2A/ptm/m/sl/14.4 Построение же-ла-е-мой ло-га-риф-ми-че-ской амплитудно-
+Underfull \hbox (badness 5817) in paragraph at lines 3--3
+ |[]\T2A/ftm/m/n/15 Построение же-ла-е-мой ло-га-риф-ми-че-ской амплитудно-
  []
 
 
@@ -890,7 +884,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
 
-[9] <images/lach_zh.jpg, id=98, 1205.50375pt x 840.13875pt>
+[9] <images/lach_zh.jpg, id=97, 1205.50375pt x 840.13875pt>
 File: images/lach_zh.jpg Graphic file (type jpg)
 
 <use images/lach_zh.jpg>
@@ -911,7 +905,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [10 <./images/lach_zh.jpg>]
-<images/Prov_lachx.jpg, id=103, 1887.05pt x 866.23625pt>
+<images/Prov_lachx.jpg, id=102, 1887.05pt x 866.23625pt>
 File: images/Prov_lachx.jpg Graphic file (type jpg)
 
 <use images/Prov_lachx.jpg>
@@ -938,7 +932,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 File: images/frames/Doc2.pdf Graphic file (type pdf)
 <use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 80.
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 87.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -948,13 +942,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [12]
 \openout2 = `model.aux'.
 
- (model.tex <images/modelWr.jpg, id=110, 512.41437pt x 177.16188pt>
+ (model.tex <images/modelWr.jpg, id=109, 512.41437pt x 177.16188pt>
 File: images/modelWr.jpg Graphic file (type jpg)
 
 <use images/modelWr.jpg>
 Package pdftex.def Info: images/modelWr.jpg used on input line 6.
 (pdftex.def)             Requested size: 437.03737pt x 151.10191pt.
- <images/y.jpg, id=111, 1205.50375pt x 840.13875pt>
+ <images/y.jpg, id=110, 1205.50375pt x 840.13875pt>
 File: images/y.jpg Graphic file (type jpg)
 
 <use images/y.jpg>
@@ -982,7 +976,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 LaTeX Warning: Command \cyrs invalid in math mode on input line 23.
 
 Missing character: There is no с in font cmr12!
-<images/e.jpg, id=115, 1205.50375pt x 840.13875pt>
+<images/e.jpg, id=114, 1205.50375pt x 840.13875pt>
 File: images/e.jpg Graphic file (type jpg)
  <use images/e.jpg>
 Package pdftex.def Info: images/e.jpg used on input line 28.
@@ -994,7 +988,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 File: images/frames/Doc2.pdf Graphic file (type pdf)
 <use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 81.
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 88.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1005,7 +999,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \openout2 = `exp.aux'.
 
  (exp.tex
-<images/elchem.jpg, id=119, 525.46312pt x 172.14313pt>
+<images/elchem.jpg, id=118, 525.46312pt x 172.14313pt>
 File: images/elchem.jpg Graphic file (type jpg)
  <use images/elchem.jpg>
 Package pdftex.def Info: images/elchem.jpg used on input line 15.
@@ -1034,7 +1028,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 File: images/frames/Doc2.pdf Graphic file (type pdf)
 <use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 82.
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 89.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1051,7 +1045,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 File: images/frames/Doc2.pdf Graphic file (type pdf)
 <use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 86.
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 93.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1071,7 +1065,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 File: images/frames/Doc2.pdf Graphic file (type pdf)
 <use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 87.
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 94.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1084,38 +1078,29 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ] 
 AED: lastpage setting LastPage
 (diplom.aux (introduction.aux) (workDefinition.aux) (po.aux) (control.aux)
-(model.aux) (exp.aux) (conclusion.aux) (bibliography.aux))
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.6pt have occurred.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
+(model.aux) (exp.aux) (conclusion.aux) (bibliography.aux)) ) 
 Here is how much of TeX's memory you used:
- 8354 strings out of 493333
- 116378 string characters out of 3139179
- 211221 words of memory out of 3000000
- 11581 multiletter control sequences out of 15000+200000
- 11092 words of font info for 33 fonts, out of 3000000 for 9000
+ 8392 strings out of 493333
+ 117092 string characters out of 3139179
+ 211869 words of memory out of 3000000
+ 11605 multiletter control sequences out of 15000+200000
+ 20390 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,22n,42p,1122b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\РРіРѕСЂСЊ\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
-00\larm1000.pk> <C:\Users\РРіРѕСЂСЊ\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
-h\lh-t2a\dpi600\larm1728.pk> <C:\Users\РРіРѕСЂСЊ\AppData\Local\MiKTeX\2.9\font
-s\pk\ljfour\unknown\unknown\dpi600\larm1200.pk> <C:\Users\РРіРѕСЂСЊ\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk><C:/Igor/Programm/M
-ikTex 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Igor/Programm/MikTex 2.
-9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/
-type1/public/amsfonts/cm/cmmi12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmmi7.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/c
-mr12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><
-C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on diplom.pdf (15 pages, 678544 bytes).
+ 50i,22n,42p,1122b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Igor/Programm/M
+ikTex 2.9/fonts/enc/t2/t2a.enc}<C:/Igor/Programm/MikTex 2.9/fonts/type1/public/
+amsfonts/cm/cmex10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmmi
+12.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C
+:/Igor/Programm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Igor/Pr
+ogramm/MikTex 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Igor/Programm/Mi
+kTex 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Igor/Programm/MikTex 2.9/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Igor/Programm/MikTex 2.9/fonts/typ
+e1/public/pscyr/times.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/pscyr
+/times.pfb><C:/Igor/Programm/MikTex 2.9/fonts/type1/public/pscyr/timesbd.pfb>
+Output written on diplom.pdf (15 pages, 673369 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
+ 168 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
